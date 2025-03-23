@@ -1,0 +1,483 @@
+{
+  "textures": {
+    "Ink_Paint": {
+      "category": "Ink:Paint",
+      "textures": [
+        {
+          "filename": "Ink:Paint 6",
+          "title": "Ink:Paint 6",
+          "default_blend_mode": "overlay",
+          "sequence_number": 6,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Ink%3APaint/Ink%3APaint%206.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Ink%3APaint/Ink%3APaint%206.jpg",
+          "description": "Apply ink:paint effects to your design"
+        },
+        {
+          "filename": "Ink:Paint 7",
+          "title": "Ink:Paint 7",
+          "default_blend_mode": "overlay",
+          "sequence_number": 7,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Ink%3APaint/Ink%3APaint%207.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Ink%3APaint/Ink%3APaint%207.jpg",
+          "description": "Apply ink:paint effects to your design"
+        },
+        {
+          "filename": "Ink:Paint 8",
+          "title": "Ink:Paint 8",
+          "default_blend_mode": "overlay",
+          "sequence_number": 8,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Ink%3APaint/Ink%3APaint%208.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Ink%3APaint/Ink%3APaint%208.jpg",
+          "description": "Apply ink:paint effects to your design"
+        },
+        {
+          "filename": "Ink:Paint 10",
+          "title": "Ink:Paint 10",
+          "default_blend_mode": "overlay",
+          "sequence_number": 10,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Ink%3APaint/Ink%3APaint%2010.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Ink%3APaint/Ink%3APaint%2010.jpg",
+          "description": "Apply ink:paint effects to your design"
+        }
+      ]
+    },
+    "Paper_Canvas": {
+      "category": "Paper:Canvas",
+      "textures": [
+        {
+          "filename": "Paper:Canvas 1",
+          "title": "Paper:Canvas 1",
+          "default_blend_mode": "overlay",
+          "sequence_number": 1,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paper%3ACanvas/Paper%3ACanvas%201.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Paper%3ACanvas/Paper%3ACanvas%201.jpg",
+          "description": "Apply paper:canvas effects to your design"
+        },
+        {
+          "filename": "Paper:Canvas 2",
+          "title": "Paper:Canvas 2",
+          "default_blend_mode": "overlay",
+          "sequence_number": 2,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paper%3ACanvas/Paper%3ACanvas%202.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Paper%3ACanvas/Paper%3ACanvas%202.jpg",
+          "description": "Apply paper:canvas effects to your design"
+        },
+        {
+          "filename": "Paper:Canvas 3",
+          "title": "Paper:Canvas 3",
+          "default_blend_mode": "overlay",
+          "sequence_number": 3,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paper%3ACanvas/Paper%3ACanvas%203.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Paper%3ACanvas/Paper%3ACanvas%203.jpg",
+          "description": "Apply paper:canvas effects to your design"
+        },
+        {
+          "filename": "Paper:Canvas 4",
+          "title": "Paper:Canvas 4",
+          "default_blend_mode": "overlay",
+          "sequence_number": 4,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paper%3ACanvas/Paper%3ACanvas%204.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Paper%3ACanvas/Paper%3ACanvas%204.jpg",
+          "description": "Apply paper:canvas effects to your design"
+        },
+        {
+          "filename": "Paper:Canvas 5",
+          "title": "Paper:Canvas 5",
+          "default_blend_mode": "overlay",
+          "sequence_number": 5,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paper%3ACanvas/Paper%3ACanvas%205.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Paper%3ACanvas/Paper%3ACanvas%205.jpg",
+          "description": "Apply paper:canvas effects to your design"
+        },
+        {
+          "filename": "Paper:Canvas 6",
+          "title": "Paper:Canvas 6",
+          "default_blend_mode": "overlay",
+          "sequence_number": 6,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paper%3ACanvas/Paper%3ACanvas%206.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Paper%3ACanvas/Paper%3ACanvas%206.jpg",
+          "description": "Apply paper:canvas effects to your design"
+        },
+        {
+          "filename": "Paper:Canvas 7",
+          "title": "Paper:Canvas 7",
+          "default_blend_mode": "overlay",
+          "sequence_number": 7,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paper%3ACanvas/Paper%3ACanvas%207.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Paper%3ACanvas/Paper%3ACanvas%207.jpg",
+          "description": "Apply paper:canvas effects to your design"
+        }
+      ]
+    },
+    "Lens Effects": {
+      "category": "Lens Effects",
+      "textures": [
+        {
+          "filename": "Lens Effect 1",
+          "title": "Lens Effect 1",
+          "default_blend_mode": "overlay",
+          "sequence_number": 1,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Lens%20Effects/Lens%20Effect%201.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Lens%20Effects/Lens%20Effect%201.jpg",
+          "description": "Apply lens effect effects to your design"
+        },
+        {
+          "filename": "Lens Effect 2",
+          "title": "Lens Effect 2",
+          "default_blend_mode": "overlay",
+          "sequence_number": 2,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Lens%20Effects/Lens%20Effect%202.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Lens%20Effects/Lens%20Effect%202.jpg",
+          "description": "Apply lens effect effects to your design"
+        },
+        {
+          "filename": "Lens Effect 3",
+          "title": "Lens Effect 3",
+          "default_blend_mode": "overlay",
+          "sequence_number": 3,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Lens%20Effects/Lens%20Effect%203.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Lens%20Effects/Lens%20Effect%203.jpg",
+          "description": "Apply lens effect effects to your design"
+        },
+        {
+          "filename": "Lens Effect 4",
+          "title": "Lens Effect 4",
+          "default_blend_mode": "overlay",
+          "sequence_number": 4,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Lens%20Effects/Lens%20Effect%204.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Lens%20Effects/Lens%20Effect%204.jpg",
+          "description": "Apply lens effect effects to your design"
+        },
+        {
+          "filename": "Lens Effect 5",
+          "title": "Lens Effect 5",
+          "default_blend_mode": "overlay",
+          "sequence_number": 5,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Lens%20Effects/Lens%20Effect%205.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Lens%20Effects/Lens%20Effect%205.jpg",
+          "description": "Apply lens effect effects to your design"
+        },
+        {
+          "filename": "Lens Effect 6",
+          "title": "Lens Effect 6",
+          "default_blend_mode": "overlay",
+          "sequence_number": 6,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Lens%20Effects/Lens%20Effect%206.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Lens%20Effects/Lens%20Effect%206.jpg",
+          "description": "Apply lens effect effects to your design"
+        },
+        {
+          "filename": "Lens Effect 7",
+          "title": "Lens Effect 7",
+          "default_blend_mode": "overlay",
+          "sequence_number": 7,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Lens%20Effects/Lens%20Effect%207.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Lens%20Effects/Lens%20Effect%207.jpg",
+          "description": "Apply lens effect effects to your design"
+        },
+        {
+          "filename": "Lens Effect 8",
+          "title": "Lens Effect 8",
+          "default_blend_mode": "overlay",
+          "sequence_number": 8,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Lens%20Effects/Lens%20Effect%208.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Lens%20Effects/Lens%20Effect%208.jpg",
+          "description": "Apply lens effect effects to your design"
+        },
+        {
+          "filename": "Lens Effect 9",
+          "title": "Lens Effect 9",
+          "default_blend_mode": "overlay",
+          "sequence_number": 9,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Lens%20Effects/Lens%20Effect%209.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Lens%20Effects/Lens%20Effect%209.jpg",
+          "description": "Apply lens effect effects to your design"
+        },
+        {
+          "filename": "Lens Effect 10",
+          "title": "Lens Effect 10",
+          "default_blend_mode": "overlay",
+          "sequence_number": 10,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Lens%20Effects/Lens%20Effect%2010.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Lens%20Effects/Lens%20Effect%2010.jpg",
+          "description": "Apply lens effect effects to your design"
+        },
+        {
+          "filename": "Lens Effect 11",
+          "title": "Lens Effect 11",
+          "default_blend_mode": "overlay",
+          "sequence_number": 11,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Lens%20Effects/Lens%20Effect%2011.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Lens%20Effects/Lens%20Effect%2011.jpg",
+          "description": "Apply lens effect effects to your design"
+        },
+        {
+          "filename": "Lens Effect 12",
+          "title": "Lens Effect 12",
+          "default_blend_mode": "overlay",
+          "sequence_number": 12,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Lens%20Effects/Lens%20Effect%2012.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Lens%20Effects/Lens%20Effect%2012.jpg",
+          "description": "Apply lens effect effects to your design"
+        },
+        {
+          "filename": "Lens Effect 13",
+          "title": "Lens Effect 13",
+          "default_blend_mode": "overlay",
+          "sequence_number": 13,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Lens%20Effects/Lens%20Effect%2013.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Lens%20Effects/Lens%20Effect%2013.jpg",
+          "description": "Apply lens effect effects to your design"
+        },
+        {
+          "filename": "Lens Effect 14",
+          "title": "Lens Effect 14",
+          "default_blend_mode": "overlay",
+          "sequence_number": 14,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Lens%20Effects/Lens%20Effect%2014.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Lens%20Effects/Lens%20Effect%2014.jpg",
+          "description": "Apply lens effect effects to your design"
+        },
+        {
+          "filename": "Lens Effect 15",
+          "title": "Lens Effect 15",
+          "default_blend_mode": "overlay",
+          "sequence_number": 15,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Lens%20Effects/Lens%20Effect%2015.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Lens%20Effects/Lens%20Effect%2015.jpg",
+          "description": "Apply lens effect effects to your design"
+        },
+        {
+          "filename": "Lens Effect 16",
+          "title": "Lens Effect 16",
+          "default_blend_mode": "overlay",
+          "sequence_number": 16,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Lens%20Effects/Lens%20Effect%2016.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Lens%20Effects/Lens%20Effect%2016.jpg",
+          "description": "Apply lens effect effects to your design"
+        },
+        {
+          "filename": "Lens Effect 17",
+          "title": "Lens Effect 17",
+          "default_blend_mode": "overlay",
+          "sequence_number": 17,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Lens%20Effects/Lens%20Effect%2017.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Lens%20Effects/Lens%20Effect%2017.jpg",
+          "description": "Apply lens effect effects to your design"
+        }
+      ]
+    },
+    "Grunge": {
+      "category": "Grunge",
+      "textures": [
+        {
+          "filename": "Grunge 1",
+          "title": "Grimey as bru",
+          "default_blend_mode": "screen",
+          "sequence_number": 1,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grunge/Grunge__Grunge%201__Grimey%20as%20bru__screen__01.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Grunge/Grunge__Grunge%201__Grimey%20as%20bru__screen__01.jpg",
+          "description": "Add a gritty, weathered look to your design"
+        },
+        {
+          "filename": "Grunge 2",
+          "title": "Grunge 2",
+          "default_blend_mode": "overlay",
+          "sequence_number": 2,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grunge/Grunge%202.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Grunge/Grunge%202.jpg",
+          "description": "Apply grunge effects to your design"
+        },
+        {
+          "filename": "Grunge 3",
+          "title": "Grunge 3",
+          "default_blend_mode": "overlay",
+          "sequence_number": 3,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grunge/Grunge%203.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Grunge/Grunge%203.jpg",
+          "description": "Apply grunge effects to your design"
+        },
+        {
+          "filename": "Grunge 4",
+          "title": "Grunge 4",
+          "default_blend_mode": "overlay",
+          "sequence_number": 4,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grunge/Grunge%204.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Grunge/Grunge%204.jpg",
+          "description": "Apply grunge effects to your design"
+        },
+        {
+          "filename": "Grunge 5",
+          "title": "Grunge 5",
+          "default_blend_mode": "overlay",
+          "sequence_number": 5,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grunge/Grunge%205.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Grunge/Grunge%205.jpg",
+          "description": "Apply grunge effects to your design"
+        },
+        {
+          "filename": "Grunge 6",
+          "title": "Grunge 6",
+          "default_blend_mode": "overlay",
+          "sequence_number": 6,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grunge/Grunge%206.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Grunge/Grunge%206.jpg",
+          "description": "Apply grunge effects to your design"
+        },
+        {
+          "filename": "Grunge 7",
+          "title": "Grunge 7",
+          "default_blend_mode": "overlay",
+          "sequence_number": 7,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grunge/Grunge%207.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Grunge/Grunge%207.jpg",
+          "description": "Apply grunge effects to your design"
+        },
+        {
+          "filename": "Grunge 8",
+          "title": "Grunge 8",
+          "default_blend_mode": "overlay",
+          "sequence_number": 8,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grunge/Grunge%208.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Grunge/Grunge%208.jpg",
+          "description": "Apply grunge effects to your design"
+        },
+        {
+          "filename": "Grunge 9",
+          "title": "Grunge 9",
+          "default_blend_mode": "overlay",
+          "sequence_number": 9,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grunge/Grunge%209.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Grunge/Grunge%209.jpg",
+          "description": "Apply grunge effects to your design"
+        },
+        {
+          "filename": "Grunge 10",
+          "title": "Grunge 10",
+          "default_blend_mode": "overlay",
+          "sequence_number": 10,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grunge/Grunge%2010.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Grunge/Grunge%2010.jpg",
+          "description": "Apply grunge effects to your design"
+        },
+        {
+          "filename": "Grunge 11",
+          "title": "Grunge 11",
+          "default_blend_mode": "overlay",
+          "sequence_number": 11,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grunge/Grunge%2011.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Grunge/Grunge%2011.jpg",
+          "description": "Apply grunge effects to your design"
+        },
+        {
+          "filename": "Grunge 12",
+          "title": "Grunge 12",
+          "default_blend_mode": "overlay",
+          "sequence_number": 12,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grunge/Grunge%2012.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Grunge/Grunge%2012.jpg",
+          "description": "Apply grunge effects to your design"
+        },
+        {
+          "filename": "Grunge 13",
+          "title": "Grunge 13",
+          "default_blend_mode": "overlay",
+          "sequence_number": 13,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grunge/Grunge%2013.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Grunge/Grunge%2013.jpg",
+          "description": "Apply grunge effects to your design"
+        },
+        {
+          "filename": "Grunge 14",
+          "title": "Grunge 14",
+          "default_blend_mode": "overlay",
+          "sequence_number": 14,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grunge/Grunge%2014.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Grunge/Grunge%2014.jpg",
+          "description": "Apply grunge effects to your design"
+        },
+        {
+          "filename": "Grunge 15",
+          "title": "Grunge 15",
+          "default_blend_mode": "overlay",
+          "sequence_number": 15,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grunge/Grunge%2015.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Grunge/Grunge%2015.jpg",
+          "description": "Apply grunge effects to your design"
+        },
+        {
+          "filename": "Grunge 16",
+          "title": "Grunge 16",
+          "default_blend_mode": "overlay",
+          "sequence_number": 16,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grunge/Grunge%2016.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Grunge/Grunge%2016.jpg",
+          "description": "Apply grunge effects to your design"
+        },
+        {
+          "filename": "Grunge 17",
+          "title": "Grunge 17",
+          "default_blend_mode": "overlay",
+          "sequence_number": 17,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grunge/Grunge%2017.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Grunge/Grunge%2017.jpg",
+          "description": "Apply grunge effects to your design"
+        },
+        {
+          "filename": "Grunge 18",
+          "title": "Grunge 18",
+          "default_blend_mode": "overlay",
+          "sequence_number": 18,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grunge/Grunge%2018.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Grunge/Grunge%2018.jpg",
+          "description": "Apply grunge effects to your design"
+        },
+        {
+          "filename": "Grunge 19",
+          "title": "Grunge 19",
+          "default_blend_mode": "overlay",
+          "sequence_number": 19,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grunge/Grunge%2019.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Grunge/Grunge%2019.jpg",
+          "description": "Apply grunge effects to your design"
+        },
+        {
+          "filename": "Grunge 20",
+          "title": "Grunge 20",
+          "default_blend_mode": "overlay",
+          "sequence_number": 20,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grunge/Grunge%2020.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Grunge/Grunge%2020.jpg",
+          "description": "Apply grunge effects to your design"
+        },
+        {
+          "filename": "Grunge 21",
+          "title": "Grunge 21",
+          "default_blend_mode": "overlay",
+          "sequence_number": 21,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grunge/Grunge%2021.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Grunge/Grunge%2021.jpg",
+          "description": "Apply grunge effects to your design"
+        },
+        {
+          "filename": "Grunge 22",
+          "title": "Grunge 22",
+          "default_blend_mode": "overlay",
+          "sequence_number": 22,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grunge/Grunge%2022.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Grunge/Grunge%2022.jpg",
+          "description": "Apply grunge effects to your design"
+        },
+        {
+          "filename": "Grunge 23",
+          "title": "Grunge 23",
+          "default_blend_mode": "overlay",
+          "sequence_number": 23,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grunge/Grunge%2023.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Grunge/Grunge%2023.jpg",
+          "description": "Apply grunge effects to your design"
+        }
+      ]
+    }
+  }
+}
