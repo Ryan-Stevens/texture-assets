@@ -272,12 +272,21 @@
       "textures": [
         {
           "filename": "Grunge 1",
-          "title": "Grimey as bru",
+          "title": "Grunge 1",
           "default_blend_mode": "screen",
           "sequence_number": 1,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grunge/Grunge__Grunge%201__Grimey%20as%20bru__screen__01.jpg",
           "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Grunge/Grunge__Grunge%201__Grimey%20as%20bru__screen__01.jpg",
-          "description": "Add a gritty, weathered look to your design"
+          "description": "Dirty smudges"
+        },
+        {
+          "filename": "Grunge 1",
+          "title": "Grunge__Grunge 1__Grimey as bru__screen__01",
+          "default_blend_mode": "screen",
+          "sequence_number": 1,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main//Users/ryanstevens/texture-assets/textures/Grunge/Grunge__Grunge%201__Grimey%20as%20bru__screen__01.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Grunge/Grunge__Grunge%201__Grimey%20as%20bru__screen__01.jpg",
+          "description": "Apply grunge__grunge 1__grimey as bru__screen__01 effects to your design"
         },
         {
           "filename": "Grunge 2",
@@ -286,7 +295,7 @@
           "sequence_number": 2,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grunge/Grunge%202.jpg",
           "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Grunge/Grunge%202.jpg",
-          "description": "Apply grunge effects to your design"
+          "description": "Splitter Splatter"
         },
         {
           "filename": "Grunge 3",
@@ -476,6 +485,83 @@
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grunge/Grunge%2023.jpg",
           "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Grunge/Grunge%2023.jpg",
           "description": "Apply grunge effects to your design"
+        }
+      ]
+    },
+    "Grain": {
+      "category": "Grain",
+      "textures": [
+        {
+          "filename": "Grain 1",
+          "title": "Grain 1",
+          "default_blend_mode": "overlay",
+          "sequence_number": 1,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main//Users/ryanstevens/texture-assets/textures/Grain/Grain%201.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Grain/Grain%201.jpg",
+          "description": "Apply grain effects to your design"
+        },
+        {
+          "filename": "Grain 2",
+          "title": "Grain 2",
+          "default_blend_mode": "overlay",
+          "sequence_number": 2,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main//Users/ryanstevens/texture-assets/textures/Grain/Grain%202.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Grain/Grain%202.jpg",
+          "description": "Apply grain effects to your design"
+        },
+        {
+          "filename": "Grain 3",
+          "title": "Grain 3",
+          "default_blend_mode": "overlay",
+          "sequence_number": 3,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main//Users/ryanstevens/texture-assets/textures/Grain/Grain%203.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Grain/Grain%203.jpg",
+          "description": "Apply grain effects to your design"
+        },
+        {
+          "filename": "Grain 4",
+          "title": "Grain 4",
+          "default_blend_mode": "overlay",
+          "sequence_number": 4,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main//Users/ryanstevens/texture-assets/textures/Grain/Grain%204.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Grain/Grain%204.jpg",
+          "description": "Apply grain effects to your design"
+        },
+        {
+          "filename": "Grain 5",
+          "title": "Grain 5",
+          "default_blend_mode": "overlay",
+          "sequence_number": 5,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main//Users/ryanstevens/texture-assets/textures/Grain/Grain%205.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Grain/Grain%205.jpg",
+          "description": "Apply grain effects to your design"
+        },
+        {
+          "filename": "Grain 6",
+          "title": "Grain 6",
+          "default_blend_mode": "overlay",
+          "sequence_number": 6,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main//Users/ryanstevens/texture-assets/textures/Grain/Grain%206.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Grain/Grain%206.jpg",
+          "description": "Apply grain effects to your design"
+        },
+        {
+          "filename": "Grain 7",
+          "title": "Grain 7",
+          "default_blend_mode": "overlay",
+          "sequence_number": 7,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main//Users/ryanstevens/texture-assets/textures/Grain/Grain%207.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Grain/Grain%207.jpg",
+          "description": "Apply grain effects to your design"
+        },
+        {
+          "filename": "Grain 8",
+          "title": "Grain 8",
+          "default_blend_mode": "overlay",
+          "sequence_number": 8,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main//Users/ryanstevens/texture-assets/textures/Grain/Grain%208.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Grain/Grain%208.jpg",
+          "description": "Apply grain effects to your design"
         }
       ]
     }
