@@ -456,6 +456,15 @@
           "description": "Apply grunge__grunge 1__grimey as bru__screen__01 effects to your design"
         },
         {
+          "filename": "Grunge 1",
+          "title": "Grunge__Grunge 1__Grimey as bru__screen__01",
+          "default_blend_mode": "screen",
+          "sequence_number": 1,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grunge/Grunge__Grunge%201__Grimey%20as%20bru__screen__01.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Grunge/Grunge__Grunge%201__Grimey%20as%20bru__screen__01.jpg",
+          "description": "Apply grunge__grunge 1__grimey as bru__screen__01 effects to your design"
+        },
+        {
           "filename": "Grunge 2",
           "title": "Grunge 2",
           "default_blend_mode": "overlay",
@@ -659,13 +668,22 @@
       "category": "VHS",
       "textures": [
         {
-          "filename": "01",
-          "title": "01",
+          "filename": "VHS 1",
+          "title": "VHS 1",
           "default_blend_mode": "overlay",
           "sequence_number": 1,
-          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/VHS/01.jpg",
-          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/VHS/01.jpg",
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/VHS/VHS%201.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/VHS/VHS%201.jpg",
           "description": "Apply  effects to your design"
+        },
+        {
+          "filename": "VHS 1",
+          "title": "VHS 1",
+          "default_blend_mode": "overlay",
+          "sequence_number": 1,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/VHS/VHS%201.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/VHS/VHS%201.jpg",
+          "description": "Apply vhs effects to your design"
         },
         {
           "filename": "020",
