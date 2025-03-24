@@ -3,7 +3,7 @@ import json
 from pathlib import Path
 from urllib.parse import quote
 
-def extract_metadata_from_filename(filepath):
+def extract_metadata_from_filename(filepath, base_dir):
     """Extract metadata from filename if it contains special format, otherwise use defaults."""
     filename = Path(filepath).stem
     parts = filename.split('__')
@@ -33,7 +33,8 @@ def extract_metadata_from_filename(filepath):
     file_stem = path_obj.stem
     
     # URL encode each path component separately
-    texture_path_parts = str(filepath).split('/')
+    relative_path = str(Path(filepath).relative_to(base_dir))
+    texture_path_parts = relative_path.split('/')
     encoded_texture_path = '/'.join(quote(part) for part in texture_path_parts)
     texture_cdn_path = f"{cdn_base}/{encoded_texture_path}"
     
@@ -82,9 +83,12 @@ def get_texture_metadata(category, filename):
 def load_existing_metadata():
     """Load existing metadata from the JSON file if it exists."""
     metadata_path = Path.cwd() / "texture_metadata.json"
-    if metadata_path.exists():
-        with open(metadata_path, 'r') as f:
-            return json.load(f)
+    if metadata_path.exists() and metadata_path.stat().st_size > 0:
+        try:
+            with open(metadata_path, 'r') as f:
+                return json.load(f)
+        except json.JSONDecodeError:
+            print("Warning: Invalid JSON in metadata file, starting fresh")
     return {"textures": {}}
 
 def update_texture_metadata():
@@ -125,7 +129,7 @@ def update_texture_metadata():
                 continue
                 
             # Extract basic metadata
-            texture_metadata = extract_metadata_from_filename(image_path)
+            texture_metadata = extract_metadata_from_filename(image_path, base_dir)
             
             # Get additional metadata
             additional_metadata = get_texture_metadata(category_name, image_path.stem)
