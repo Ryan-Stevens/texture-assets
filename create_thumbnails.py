@@ -51,6 +51,6 @@ def create_thumbnails(source_dirs):
 
 if __name__ == '__main__':
     # List of directories containing textures
-    source_dirs = ['textures/Grunge', 'textures/Ink:Paint', 'textures/Lens Effects', 'textures/Paper:Canvas', 'textures/Grain']
+    source_dirs = ['textures/Grunge', 'textures/Ink:Paint', 'textures/Lens Effects', 'textures/Paper:Canvas', 'textures/Grain', 'textures/VHS', 'textures/Film Grain', 'textures/Halftone']
     create_thumbnails(source_dirs)
     print('Thumbnail creation complete!')
