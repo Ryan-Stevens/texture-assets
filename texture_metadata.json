@@ -447,6 +447,15 @@
           "description": "Apply grunge__grunge 1__grimey as bru__screen__01 effects to your design"
         },
         {
+          "filename": "Grunge 1",
+          "title": "Grunge__Grunge 1__Grimey as bru__screen__01",
+          "default_blend_mode": "screen",
+          "sequence_number": 1,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grunge/Grunge__Grunge%201__Grimey%20as%20bru__screen__01.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Grunge/Grunge__Grunge%201__Grimey%20as%20bru__screen__01.jpg",
+          "description": "Apply grunge__grunge 1__grimey as bru__screen__01 effects to your design"
+        },
+        {
           "filename": "Grunge 2",
           "title": "Grunge 2",
           "default_blend_mode": "overlay",
@@ -648,7 +657,98 @@
     },
     "VHS": {
       "category": "VHS",
-      "textures": []
+      "textures": [
+        {
+          "filename": "01",
+          "title": "01",
+          "default_blend_mode": "overlay",
+          "sequence_number": 1,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/VHS/01.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/VHS/01.jpg",
+          "description": "Apply  effects to your design"
+        },
+        {
+          "filename": "020",
+          "title": "020",
+          "default_blend_mode": "overlay",
+          "sequence_number": 20,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/VHS/020.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/VHS/020.jpg",
+          "description": "Apply  effects to your design"
+        },
+        {
+          "filename": "030",
+          "title": "030",
+          "default_blend_mode": "overlay",
+          "sequence_number": 30,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/VHS/030.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/VHS/030.jpg",
+          "description": "Apply  effects to your design"
+        },
+        {
+          "filename": "036",
+          "title": "036",
+          "default_blend_mode": "overlay",
+          "sequence_number": 36,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/VHS/036.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/VHS/036.jpg",
+          "description": "Apply  effects to your design"
+        },
+        {
+          "filename": "040",
+          "title": "040",
+          "default_blend_mode": "overlay",
+          "sequence_number": 40,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/VHS/040.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/VHS/040.jpg",
+          "description": "Apply  effects to your design"
+        },
+        {
+          "filename": "043",
+          "title": "043",
+          "default_blend_mode": "overlay",
+          "sequence_number": 43,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/VHS/043.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/VHS/043.jpg",
+          "description": "Apply  effects to your design"
+        },
+        {
+          "filename": "056",
+          "title": "056",
+          "default_blend_mode": "overlay",
+          "sequence_number": 56,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/VHS/056.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/VHS/056.jpg",
+          "description": "Apply  effects to your design"
+        },
+        {
+          "filename": "079",
+          "title": "079",
+          "default_blend_mode": "overlay",
+          "sequence_number": 79,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/VHS/079.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/VHS/079.jpg",
+          "description": "Apply  effects to your design"
+        },
+        {
+          "filename": "084",
+          "title": "084",
+          "default_blend_mode": "overlay",
+          "sequence_number": 84,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/VHS/084.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/VHS/084.jpg",
+          "description": "Apply  effects to your design"
+        },
+        {
+          "filename": "086",
+          "title": "086",
+          "default_blend_mode": "overlay",
+          "sequence_number": 86,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/VHS/086.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/VHS/086.jpg",
+          "description": "Apply  effects to your design"
+        }
+      ]
     },
     "Film Grain": {
       "category": "Film Grain",
