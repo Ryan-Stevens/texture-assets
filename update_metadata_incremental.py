@@ -78,7 +78,7 @@ def get_texture_metadata(category, filename):
         clean_name = ' '.join(word for word in name.split() if not word.isdigit())
         return {
             "title": name,  # Keep original name as title
-            "description": f"Apply {clean_name.lower()} effects to your design"
+            "description": f"Apply {clean_name.lower()} texture"
         }
     
     # Special metadata for specific textures
