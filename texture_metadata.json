@@ -42,7 +42,7 @@
       ]
     },
     "Grain": {
-      "category": "Grain",
+      "category": "Grain test",
       "textures": [
         {
           "filename": "Grain 1",
