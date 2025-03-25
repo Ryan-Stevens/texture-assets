@@ -42,7 +42,7 @@
       ]
     },
     "Grain": {
-      "category": "Grain stufffff",
+      "category": "Grain stuff",
       "textures": [
         {
           "filename": "Grain 1",
@@ -436,6 +436,15 @@
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grunge/Grunge__Grunge%201__Grimey%20as%20bru__screen__01.jpg",
           "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Grunge/Grunge__Grunge%201__Grimey%20as%20bru__screen__01.jpg",
           "description": "Apply grunge effects to your design"
+        },
+        {
+          "filename": "Grunge 1",
+          "title": "Grunge__Grunge 1__Grimey as bru__screen__01",
+          "default_blend_mode": "screen",
+          "sequence_number": 1,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grunge/Grunge__Grunge%201__Grimey%20as%20bru__screen__01.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Grunge/Grunge__Grunge%201__Grimey%20as%20bru__screen__01.jpg",
+          "description": "Apply grunge__grunge 1__grimey as bru__screen__01 effects to your design"
         },
         {
           "filename": "Grunge 1",
