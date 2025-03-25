@@ -1,19 +1,5 @@
 {
   "textures": {
-    "test-category": {
-      "category": "test-category",
-      "textures": [
-        {
-          "filename": "020",
-          "title": "020",
-          "default_blend_mode": "overlay",
-          "sequence_number": 20,
-          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/test-category/020.jpg",
-          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/test-category/020.jpg",
-          "description": "Apply  effects to your design"
-        }
-      ]
-    },
     "Lens-Effects": {
       "category": "Lens-Effects",
       "textures": [
