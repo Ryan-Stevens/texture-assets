@@ -32,15 +32,24 @@ def extract_metadata_from_filename(filepath, base_dir):
     category_dir = path_obj.parent.name
     file_stem = path_obj.stem
     
-    # URL encode each path component separately
+    # Process path components: replace spaces with hyphens in directory names, URL encode the rest
     relative_path = str(Path(filepath).relative_to(base_dir))
     texture_path_parts = relative_path.split('/')
-    encoded_texture_path = '/'.join(quote(part) for part in texture_path_parts)
+    
+    # Replace spaces with hyphens in directory names, but use URL encoding for filenames
+    encoded_texture_path = '/'.join(
+        part.replace(' ', '-') if i < len(texture_path_parts) - 1 else quote(part)
+        for i, part in enumerate(texture_path_parts)
+    )
     texture_cdn_path = f"{cdn_base}/{encoded_texture_path}"
     
     # Generate thumbnail path
     thumbnail_path_parts = ["thumbnails", "textures", category_dir, f"{file_stem}.jpg"]
-    encoded_thumbnail_path = '/'.join(quote(part) for part in thumbnail_path_parts)
+    # Replace spaces with hyphens in directory names, but use URL encoding for filenames
+    encoded_thumbnail_path = '/'.join(
+        part.replace(' ', '-') if i < len(thumbnail_path_parts) - 1 else quote(part)
+        for i, part in enumerate(thumbnail_path_parts)
+    )
     thumbnail_cdn_path = f"{cdn_base}/{encoded_thumbnail_path}"
 
     return {
