@@ -46,8 +46,8 @@ def create_thumbnails():
                             img = img.convert('RGB')
                         
                         # Calculate new size while maintaining aspect ratio
-                        # Target width of 800px for thumbnails
-                        basewidth = 800
+                        # Target width of 600px for thumbnails
+                        basewidth = 600
                         wpercent = (basewidth / float(img.size[0]))
                         hsize = int((float(img.size[1]) * float(wpercent)))
                         

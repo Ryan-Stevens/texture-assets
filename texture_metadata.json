@@ -634,7 +634,7 @@
       "textures": [
         {
           "filename": "Grunge-1",
-          "title": "Grunge__Grunge-1__Grimey-as-bru__screen__01",
+          "title": "Grunge-test",
           "default_blend_mode": "screen",
           "sequence_number": 1,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grunge/Grunge__Grunge-1__Grimey-as-bru__screen__01.jpg",
