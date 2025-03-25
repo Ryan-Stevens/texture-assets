@@ -32,24 +32,33 @@ def extract_metadata_from_filename(filepath, base_dir):
     category_dir = path_obj.parent.name
     file_stem = path_obj.stem
     
-    # Process path components: replace spaces with hyphens in directory names, URL encode the rest
+    # Get relative path and split into components
     relative_path = str(Path(filepath).relative_to(base_dir))
     texture_path_parts = relative_path.split('/')
     
-    # Replace spaces with hyphens in directory names, but use URL encoding for filenames
-    encoded_texture_path = '/'.join(
-        part.replace(' ', '-') if i < len(texture_path_parts) - 1 else quote(part)
-        for i, part in enumerate(texture_path_parts)
-    )
+    # URL encode each component properly for jsDelivr
+    encoded_parts = []
+    for part in texture_path_parts:
+        # Replace problematic characters with their URL-encoded versions
+        encoded_part = part.replace(' ', '%20')
+        encoded_part = encoded_part.replace('&', '%26')
+        encoded_part = encoded_part.replace(':', '%3A')
+        encoded_parts.append(encoded_part)
+    encoded_texture_path = '/'.join(encoded_parts)
     texture_cdn_path = f"{cdn_base}/{encoded_texture_path}"
     
-    # Generate thumbnail path
+    # Generate thumbnail path with proper URL encoding
     thumbnail_path_parts = ["thumbnails", "textures", category_dir, f"{file_stem}.jpg"]
-    # Replace spaces with hyphens in directory names, but use URL encoding for filenames
-    encoded_thumbnail_path = '/'.join(
-        part.replace(' ', '-') if i < len(thumbnail_path_parts) - 1 else quote(part)
-        for i, part in enumerate(thumbnail_path_parts)
-    )
+    
+    # URL encode each component properly for jsDelivr
+    encoded_parts = []
+    for part in thumbnail_path_parts:
+        # Replace problematic characters with their URL-encoded versions
+        encoded_part = part.replace(' ', '%20')
+        encoded_part = encoded_part.replace('&', '%26')
+        encoded_part = encoded_part.replace(':', '%3A')
+        encoded_parts.append(encoded_part)
+    encoded_thumbnail_path = '/'.join(encoded_parts)
     thumbnail_cdn_path = f"{cdn_base}/{encoded_thumbnail_path}"
 
     return {
