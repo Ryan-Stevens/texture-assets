@@ -1,32 +1,42 @@
 import os
+import shutil
 from PIL import Image
 
-def create_thumbnails(source_dirs):
+def create_thumbnails():
     # Get the script's directory
     script_dir = os.path.dirname(os.path.abspath(__file__))
     
-    # Create thumbnails directory if it doesn't exist
+    # Get the textures directory
+    textures_dir = os.path.join(script_dir, 'textures')
+    
+    # Remove existing thumbnails directory if it exists
     thumbnails_dir = os.path.join(script_dir, 'thumbnails')
-    if not os.path.exists(thumbnails_dir):
-        os.makedirs(thumbnails_dir)
+    if os.path.exists(thumbnails_dir):
+        shutil.rmtree(thumbnails_dir)
+    
+    # Create fresh thumbnails and thumbnails/textures directories
+    thumbnails_textures_dir = os.path.join(thumbnails_dir, 'textures')
+    os.makedirs(thumbnails_textures_dir)
+    
+    # Process each category directory in textures
+    for category in os.listdir(textures_dir):
+        # Skip hidden files and non-directories
+        category_path = os.path.join(textures_dir, category)
+        if not os.path.isdir(category_path) or category.startswith('.'):
+            continue
         
-    # Process each source directory
-    for source_dir_name in source_dirs:
-        # Get absolute paths
-        source_dir = os.path.join(script_dir, source_dir_name)
-        thumb_dir = os.path.join(thumbnails_dir, source_dir_name)
+        # Create corresponding thumbnail directory
+        thumb_dir = os.path.join(thumbnails_textures_dir, category)
+        os.makedirs(thumb_dir)
         
-        if not os.path.exists(thumb_dir):
-            os.makedirs(thumb_dir)
-            
-        # Process each image in the source directory
-        for filename in os.listdir(source_dir):
+        # Process each image in the category directory
+        for filename in os.listdir(category_path):
             if filename.lower().endswith(('.png', '.jpg', '.jpeg')):
-                # Skip .DS_Store and other hidden files
+                # Skip hidden files
                 if filename.startswith('.'):
                     continue
-                    
-                input_path = os.path.join(source_dir, filename)
+                
+                input_path = os.path.join(category_path, filename)
                 output_path = os.path.join(thumb_dir, filename)
                 
                 try:
@@ -50,7 +60,5 @@ def create_thumbnails(source_dirs):
                     print(f'Error processing {filename}: {str(e)}')
 
 if __name__ == '__main__':
-    # List of directories containing textures
-    source_dirs = ['textures/Grunge', 'textures/Ink:Paint', 'textures/Lens Effects', 'textures/Paper:Canvas', 'textures/Grain', 'textures/VHS', 'textures/Film Grain', 'textures/Halftone']
-    create_thumbnails(source_dirs)
+    create_thumbnails()
     print('Thumbnail creation complete!')
