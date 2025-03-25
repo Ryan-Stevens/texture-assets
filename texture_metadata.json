@@ -633,13 +633,13 @@
       "category": "Grunge",
       "textures": [
         {
-          "filename": "Grunge-1",
+          "filename": "Grunge-test",
           "title": "Grunge-test",
-          "default_blend_mode": "screen",
+          "default_blend_mode": "overlay",
           "sequence_number": 1,
-          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grunge/Grunge__Grunge-1__Grimey-as-bru__screen__01.jpg",
-          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Grunge/Grunge__Grunge-1__Grimey-as-bru__screen__01.jpg",
-          "description": "Apply grunge__grunge-1__grimey-as-bru__screen__01 effects to your design"
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grunge/Grunge-test.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Grunge/Grunge-test.jpg",
+          "description": "Apply grunge-test effects to your design"
         },
         {
           "filename": "Grunge-2",
