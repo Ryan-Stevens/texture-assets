@@ -5,7 +5,7 @@
       "textures": [
         {
           "filename": "Lens-Effect-1",
-          "title": "hey there",
+          "title": "Lens-Effect-1",
           "default_blend_mode": "overlay",
           "sequence_number": 1,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Lens-Effects/Lens-Effect-1.jpg",
