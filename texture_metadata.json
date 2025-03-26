@@ -254,7 +254,7 @@
       ]
     },
     "Paper-and-Canvas": {
-      "category": "Paper-and-Canvas",
+      "category": "Paper & Canvas",
       "textures": [
         {
           "filename": "Paper-Canvas-1",
@@ -403,7 +403,7 @@
       ]
     },
     "Film-Grain": {
-      "category": "Film-Grain",
+      "category": "Film Grain",
       "textures": [
         {
           "filename": "Film-Grain-1",
@@ -575,7 +575,7 @@
       ]
     },
     "Ink-and-Paint": {
-      "category": "Ink-and-Paint",
+      "category": "Ink & Paint",
       "textures": [
         {
           "filename": "Ink-Paint-6",
