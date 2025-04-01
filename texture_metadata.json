@@ -1,160 +1,372 @@
 {
   "textures": {
-    "Lens-Effects": {
-      "category": "Lens Effects",
+    "Paper": {
+      "category": "Paper",
       "textures": [
         {
-          "filename": "Lens-Effect-1",
-          "title": "Lens Effect 1",
+          "filename": "Paper-1",
+          "title": "Paper-1",
           "default_blend_mode": "overlay",
           "sequence_number": 1,
-          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Lens-Effects/Lens-Effect-1.jpg",
-          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Lens-Effects/Lens-Effect-1.jpg",
-          "description": "Apply lens-effect-1 texture"
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paper/Paper-1.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Paper/Paper-1.jpg",
+          "description": "Apply paper-1 texture"
         },
         {
-          "filename": "Lens-Effect-2",
-          "title": "Lens Effect 2",
+          "filename": "Paper-2",
+          "title": "Paper-2",
           "default_blend_mode": "overlay",
           "sequence_number": 2,
-          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Lens-Effects/Lens-Effect-2.jpg",
-          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Lens-Effects/Lens-Effect-2.jpg",
-          "description": "Apply lens-effect-2 texture"
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paper/Paper-2.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Paper/Paper-2.jpg",
+          "description": "Apply paper-2 texture"
         },
         {
-          "filename": "Lens-Effect-3",
-          "title": "Lens Effect 3",
+          "filename": "Paper-3",
+          "title": "Paper-3",
           "default_blend_mode": "overlay",
           "sequence_number": 3,
-          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Lens-Effects/Lens-Effect-3.jpg",
-          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Lens-Effects/Lens-Effect-3.jpg",
-          "description": "Apply lens-effect-3 texture"
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paper/Paper-3.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Paper/Paper-3.jpg",
+          "description": "Apply paper-3 texture"
         },
         {
-          "filename": "Lens-Effect-4",
-          "title": "Lens Effect 4",
+          "filename": "Paper-4",
+          "title": "Paper-4",
           "default_blend_mode": "overlay",
           "sequence_number": 4,
-          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Lens-Effects/Lens-Effect-4.jpg",
-          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Lens-Effects/Lens-Effect-4.jpg",
-          "description": "Apply lens-effect-4 texture"
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paper/Paper-4.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Paper/Paper-4.jpg",
+          "description": "Apply paper-4 texture"
         },
         {
-          "filename": "Lens-Effect-5",
-          "title": "Lens Effect 5",
+          "filename": "Paper-5",
+          "title": "Paper-5",
           "default_blend_mode": "overlay",
           "sequence_number": 5,
-          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Lens-Effects/Lens-Effect-5.jpg",
-          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Lens-Effects/Lens-Effect-5.jpg",
-          "description": "Apply lens-effect-5 texture"
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paper/Paper-5.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Paper/Paper-5.jpg",
+          "description": "Apply paper-5 texture"
         },
         {
-          "filename": "Lens-Effect-6",
-          "title": "Lens Effect 6",
+          "filename": "Paper-6",
+          "title": "Paper-6",
           "default_blend_mode": "overlay",
           "sequence_number": 6,
-          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Lens-Effects/Lens-Effect-6.jpg",
-          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Lens-Effects/Lens-Effect-6.jpg",
-          "description": "Apply lens-effect-6 texture"
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paper/Paper-6.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Paper/Paper-6.jpg",
+          "description": "Apply paper-6 texture"
         },
         {
-          "filename": "Lens-Effect-7",
-          "title": "Lens Effect 7",
+          "filename": "Paper-7",
+          "title": "Paper-7",
           "default_blend_mode": "overlay",
           "sequence_number": 7,
-          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Lens-Effects/Lens-Effect-7.jpg",
-          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Lens-Effects/Lens-Effect-7.jpg",
-          "description": "Apply lens-effect-7 texture"
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paper/Paper-7.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Paper/Paper-7.jpg",
+          "description": "Apply paper-7 texture"
         },
         {
-          "filename": "Lens-Effect-8",
-          "title": "Lens Effect 8",
+          "filename": "Paper-8",
+          "title": "Paper-8",
           "default_blend_mode": "overlay",
           "sequence_number": 8,
-          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Lens-Effects/Lens-Effect-8.jpg",
-          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Lens-Effects/Lens-Effect-8.jpg",
-          "description": "Apply lens-effect-8 texture"
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paper/Paper-8.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Paper/Paper-8.jpg",
+          "description": "Apply paper-8 texture"
         },
         {
-          "filename": "Lens-Effect-9",
-          "title": "Lens Effect 9",
+          "filename": "Paper-9",
+          "title": "Paper-9",
           "default_blend_mode": "overlay",
           "sequence_number": 9,
-          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Lens-Effects/Lens-Effect-9.jpg",
-          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Lens-Effects/Lens-Effect-9.jpg",
-          "description": "Apply lens-effect-9 texture"
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paper/Paper-9.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Paper/Paper-9.jpg",
+          "description": "Apply paper-9 texture"
         },
         {
-          "filename": "Lens-Effect-10",
-          "title": "Lens Effect 10",
+          "filename": "Paper-10",
+          "title": "Paper-10",
           "default_blend_mode": "overlay",
           "sequence_number": 10,
-          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Lens-Effects/Lens-Effect-10.jpg",
-          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Lens-Effects/Lens-Effect-10.jpg",
-          "description": "Apply lens-effect-10 texture"
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paper/Paper-10.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Paper/Paper-10.jpg",
+          "description": "Apply paper-10 texture"
         },
         {
-          "filename": "Lens-Effect-11",
-          "title": "Lens Effect 11",
+          "filename": "Paper-11",
+          "title": "Paper-11",
           "default_blend_mode": "overlay",
           "sequence_number": 11,
-          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Lens-Effects/Lens-Effect-11.jpg",
-          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Lens-Effects/Lens-Effect-11.jpg",
-          "description": "Apply lens-effect-11 texture"
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paper/Paper-11.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Paper/Paper-11.jpg",
+          "description": "Apply paper-11 texture"
         },
         {
-          "filename": "Lens-Effect-12",
-          "title": "Lens Effect 12",
+          "filename": "Paper-12",
+          "title": "Paper-12",
           "default_blend_mode": "overlay",
           "sequence_number": 12,
-          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Lens-Effects/Lens-Effect-12.jpg",
-          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Lens-Effects/Lens-Effect-12.jpg",
-          "description": "Apply lens-effect-12 texture"
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paper/Paper-12.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Paper/Paper-12.jpg",
+          "description": "Apply paper-12 texture"
         },
         {
-          "filename": "Lens-Effect-13",
-          "title": "Lens Effect 13",
+          "filename": "Paper-13",
+          "title": "Paper-13",
           "default_blend_mode": "overlay",
           "sequence_number": 13,
-          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Lens-Effects/Lens-Effect-13.jpg",
-          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Lens-Effects/Lens-Effect-13.jpg",
-          "description": "Apply lens-effect-13 texture"
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paper/Paper-13.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Paper/Paper-13.jpg",
+          "description": "Apply paper-13 texture"
         },
         {
-          "filename": "Lens-Effect-14",
-          "title": "Lens Effect 14",
+          "filename": "Paper-14",
+          "title": "Paper-14",
           "default_blend_mode": "overlay",
           "sequence_number": 14,
-          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Lens-Effects/Lens-Effect-14.jpg",
-          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Lens-Effects/Lens-Effect-14.jpg",
-          "description": "Apply lens-effect-14 texture"
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paper/Paper-14.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Paper/Paper-14.jpg",
+          "description": "Apply paper-14 texture"
         },
         {
-          "filename": "Lens-Effect-15",
-          "title": "Lens Effect 15",
+          "filename": "Paper-15",
+          "title": "Paper-15",
           "default_blend_mode": "overlay",
           "sequence_number": 15,
-          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Lens-Effects/Lens-Effect-15.jpg",
-          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Lens-Effects/Lens-Effect-15.jpg",
-          "description": "Apply lens-effect-15 texture"
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paper/Paper-15.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Paper/Paper-15.jpg",
+          "description": "Apply paper-15 texture"
         },
         {
-          "filename": "Lens-Effect-16",
-          "title": "Lens Effect 16",
+          "filename": "Paper-16",
+          "title": "Paper-16",
           "default_blend_mode": "overlay",
           "sequence_number": 16,
-          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Lens-Effects/Lens-Effect-16.jpg",
-          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Lens-Effects/Lens-Effect-16.jpg",
-          "description": "Apply lens-effect-16 texture"
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paper/Paper-16.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Paper/Paper-16.jpg",
+          "description": "Apply paper-16 texture"
         },
         {
-          "filename": "Lens-Effect-17",
-          "title": "Lens Effect 17",
+          "filename": "Paper-17",
+          "title": "Paper-17",
           "default_blend_mode": "overlay",
           "sequence_number": 17,
-          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Lens-Effects/Lens-Effect-17.jpg",
-          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Lens-Effects/Lens-Effect-17.jpg",
-          "description": "Apply lens-effect-17 texture"
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paper/Paper-17.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Paper/Paper-17.jpg",
+          "description": "Apply paper-17 texture"
+        },
+        {
+          "filename": "Paper-18",
+          "title": "Paper-18",
+          "default_blend_mode": "overlay",
+          "sequence_number": 18,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paper/Paper-18.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Paper/Paper-18.jpg",
+          "description": "Apply paper-18 texture"
+        },
+        {
+          "filename": "Paper-19",
+          "title": "Paper-19",
+          "default_blend_mode": "overlay",
+          "sequence_number": 19,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paper/Paper-19.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Paper/Paper-19.jpg",
+          "description": "Apply paper-19 texture"
+        },
+        {
+          "filename": "Paper-20",
+          "title": "Paper-20",
+          "default_blend_mode": "overlay",
+          "sequence_number": 20,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paper/Paper-20.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Paper/Paper-20.jpg",
+          "description": "Apply paper-20 texture"
+        },
+        {
+          "filename": "Paper-21",
+          "title": "Paper-21",
+          "default_blend_mode": "overlay",
+          "sequence_number": 21,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paper/Paper-21.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Paper/Paper-21.jpg",
+          "description": "Apply paper-21 texture"
+        },
+        {
+          "filename": "Paper-22",
+          "title": "Paper-22",
+          "default_blend_mode": "overlay",
+          "sequence_number": 22,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paper/Paper-22.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Paper/Paper-22.jpg",
+          "description": "Apply paper-22 texture"
+        },
+        {
+          "filename": "Paper-23",
+          "title": "Paper-23",
+          "default_blend_mode": "overlay",
+          "sequence_number": 23,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paper/Paper-23.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Paper/Paper-23.jpg",
+          "description": "Apply paper-23 texture"
+        },
+        {
+          "filename": "Paper-24",
+          "title": "Paper-24",
+          "default_blend_mode": "overlay",
+          "sequence_number": 24,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paper/Paper-24.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Paper/Paper-24.jpg",
+          "description": "Apply paper-24 texture"
+        },
+        {
+          "filename": "Paper-25",
+          "title": "Paper-25",
+          "default_blend_mode": "overlay",
+          "sequence_number": 25,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paper/Paper-25.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Paper/Paper-25.jpg",
+          "description": "Apply paper-25 texture"
+        }
+      ]
+    },
+    "Paint": {
+      "category": "Paint",
+      "textures": [
+        {
+          "filename": "Paint-1",
+          "title": "Paint-1",
+          "default_blend_mode": "overlay",
+          "sequence_number": 1,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paint/Paint-1.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Paint/Paint-1.jpg",
+          "description": "Apply paint-1 texture"
+        },
+        {
+          "filename": "Paint-2",
+          "title": "Paint-2",
+          "default_blend_mode": "overlay",
+          "sequence_number": 2,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paint/Paint-2.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Paint/Paint-2.jpg",
+          "description": "Apply paint-2 texture"
+        },
+        {
+          "filename": "Paint-3",
+          "title": "Paint-3",
+          "default_blend_mode": "overlay",
+          "sequence_number": 3,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paint/Paint-3.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Paint/Paint-3.jpg",
+          "description": "Apply paint-3 texture"
+        },
+        {
+          "filename": "Paint-4",
+          "title": "Paint-4",
+          "default_blend_mode": "overlay",
+          "sequence_number": 4,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paint/Paint-4.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Paint/Paint-4.jpg",
+          "description": "Apply paint-4 texture"
+        },
+        {
+          "filename": "Paint-5",
+          "title": "Paint-5",
+          "default_blend_mode": "overlay",
+          "sequence_number": 5,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paint/Paint-5.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Paint/Paint-5.jpg",
+          "description": "Apply paint-5 texture"
+        },
+        {
+          "filename": "Paint-6",
+          "title": "Paint-6",
+          "default_blend_mode": "overlay",
+          "sequence_number": 6,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paint/Paint-6.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Paint/Paint-6.jpg",
+          "description": "Apply paint-6 texture"
+        },
+        {
+          "filename": "Paint-7",
+          "title": "Paint-7",
+          "default_blend_mode": "overlay",
+          "sequence_number": 7,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paint/Paint-7.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Paint/Paint-7.jpg",
+          "description": "Apply paint-7 texture"
+        },
+        {
+          "filename": "Paint-8",
+          "title": "Paint-8",
+          "default_blend_mode": "overlay",
+          "sequence_number": 8,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paint/Paint-8.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Paint/Paint-8.jpg",
+          "description": "Apply paint-8 texture"
+        },
+        {
+          "filename": "Paint-9",
+          "title": "Paint-9",
+          "default_blend_mode": "overlay",
+          "sequence_number": 9,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paint/Paint-9.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Paint/Paint-9.jpg",
+          "description": "Apply paint-9 texture"
+        },
+        {
+          "filename": "Paint-10",
+          "title": "Paint-10",
+          "default_blend_mode": "overlay",
+          "sequence_number": 10,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paint/Paint-10.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Paint/Paint-10.jpg",
+          "description": "Apply paint-10 texture"
+        },
+        {
+          "filename": "Paint-11",
+          "title": "Paint-11",
+          "default_blend_mode": "overlay",
+          "sequence_number": 11,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paint/Paint-11.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Paint/Paint-11.jpg",
+          "description": "Apply paint-11 texture"
+        },
+        {
+          "filename": "Paint-12",
+          "title": "Paint-12",
+          "default_blend_mode": "overlay",
+          "sequence_number": 12,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paint/Paint-12.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Paint/Paint-12.jpg",
+          "description": "Apply paint-12 texture"
+        },
+        {
+          "filename": "Paint-13",
+          "title": "Paint-13",
+          "default_blend_mode": "overlay",
+          "sequence_number": 13,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paint/Paint-13.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Paint/Paint-13.jpg",
+          "description": "Apply paint-13 texture"
+        },
+        {
+          "filename": "Paint-14",
+          "title": "Paint-14",
+          "default_blend_mode": "overlay",
+          "sequence_number": 14,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paint/Paint-14.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Paint/Paint-14.jpg",
+          "description": "Apply paint-14 texture"
+        },
+        {
+          "filename": "Paint-15",
+          "title": "Paint-15",
+          "default_blend_mode": "overlay",
+          "sequence_number": 15,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paint/Paint-15.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Paint/Paint-15.jpg",
+          "description": "Apply paint-15 texture"
         }
       ]
     },
@@ -171,447 +383,618 @@
           "description": "Apply vhs-1 texture"
         },
         {
-          "filename": "020",
-          "title": "020",
-          "default_blend_mode": "overlay",
-          "sequence_number": 20,
-          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/VHS/020.jpg",
-          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/VHS/020.jpg",
-          "description": "Apply  texture"
-        },
-        {
-          "filename": "030",
-          "title": "030",
-          "default_blend_mode": "overlay",
-          "sequence_number": 30,
-          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/VHS/030.jpg",
-          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/VHS/030.jpg",
-          "description": "Apply  texture"
-        },
-        {
-          "filename": "036",
-          "title": "036",
-          "default_blend_mode": "overlay",
-          "sequence_number": 36,
-          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/VHS/036.jpg",
-          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/VHS/036.jpg",
-          "description": "Apply  texture"
-        },
-        {
-          "filename": "040",
-          "title": "040",
-          "default_blend_mode": "overlay",
-          "sequence_number": 40,
-          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/VHS/040.jpg",
-          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/VHS/040.jpg",
-          "description": "Apply  texture"
-        },
-        {
-          "filename": "043",
-          "title": "043",
-          "default_blend_mode": "overlay",
-          "sequence_number": 43,
-          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/VHS/043.jpg",
-          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/VHS/043.jpg",
-          "description": "Apply  texture"
-        },
-        {
-          "filename": "056",
-          "title": "056",
-          "default_blend_mode": "overlay",
-          "sequence_number": 56,
-          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/VHS/056.jpg",
-          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/VHS/056.jpg",
-          "description": "Apply  texture"
-        },
-        {
-          "filename": "079",
-          "title": "079",
-          "default_blend_mode": "overlay",
-          "sequence_number": 79,
-          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/VHS/079.jpg",
-          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/VHS/079.jpg",
-          "description": "Apply  texture"
-        },
-        {
-          "filename": "084",
-          "title": "084",
-          "default_blend_mode": "overlay",
-          "sequence_number": 84,
-          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/VHS/084.jpg",
-          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/VHS/084.jpg",
-          "description": "Apply  texture"
-        },
-        {
-          "filename": "086",
-          "title": "086",
-          "default_blend_mode": "overlay",
-          "sequence_number": 86,
-          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/VHS/086.jpg",
-          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/VHS/086.jpg",
-          "description": "Apply  texture"
-        }
-      ]
-    },
-    "Paper-and-Canvas": {
-      "category": "Paper & Canvas",
-      "textures": [
-        {
-          "filename": "Paper-Canvas-1",
-          "title": "Paper & Canvas 1",
-          "default_blend_mode": "overlay",
-          "sequence_number": 1,
-          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paper-and-Canvas/Paper-Canvas-1.jpg",
-          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Paper-and-Canvas/Paper-Canvas-1.jpg",
-          "description": "Apply paper-canvas-1 texture"
-        },
-        {
-          "filename": "Paper-Canvas-2",
-          "title": "Paper & Canvas 2",
+          "filename": "VHS-2",
+          "title": "VHS-2",
           "default_blend_mode": "overlay",
           "sequence_number": 2,
-          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paper-and-Canvas/Paper-Canvas-2.jpg",
-          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Paper-and-Canvas/Paper-Canvas-2.jpg",
-          "description": "Apply paper-canvas-2 texture"
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/VHS/VHS-2.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/VHS/VHS-2.jpg",
+          "description": "Apply vhs-2 texture"
         },
         {
-          "filename": "Paper-Canvas-3",
-          "title": "Paper & Canvas 3",
+          "filename": "VHS-3",
+          "title": "VHS-3",
           "default_blend_mode": "overlay",
           "sequence_number": 3,
-          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paper-and-Canvas/Paper-Canvas-3.jpg",
-          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Paper-and-Canvas/Paper-Canvas-3.jpg",
-          "description": "Apply paper-canvas-3 texture"
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/VHS/VHS-3.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/VHS/VHS-3.jpg",
+          "description": "Apply vhs-3 texture"
         },
         {
-          "filename": "Paper-Canvas-4",
-          "title": "Paper & Canvas 4",
+          "filename": "VHS-4",
+          "title": "VHS-4",
           "default_blend_mode": "overlay",
           "sequence_number": 4,
-          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paper-and-Canvas/Paper-Canvas-4.jpg",
-          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Paper-and-Canvas/Paper-Canvas-4.jpg",
-          "description": "Apply paper-canvas-4 texture"
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/VHS/VHS-4.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/VHS/VHS-4.jpg",
+          "description": "Apply vhs-4 texture"
         },
         {
-          "filename": "Paper-Canvas-5",
-          "title": "Paper & Canvas 5",
+          "filename": "VHS-5",
+          "title": "VHS-5",
           "default_blend_mode": "overlay",
           "sequence_number": 5,
-          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paper-and-Canvas/Paper-Canvas-5.jpg",
-          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Paper-and-Canvas/Paper-Canvas-5.jpg",
-          "description": "Apply paper-canvas-5 texture"
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/VHS/VHS-5.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/VHS/VHS-5.jpg",
+          "description": "Apply vhs-5 texture"
         },
         {
-          "filename": "Paper-Canvas-6",
-          "title": "Paper & Canvas 6",
+          "filename": "VHS-6",
+          "title": "VHS-6",
           "default_blend_mode": "overlay",
           "sequence_number": 6,
-          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paper-and-Canvas/Paper-Canvas-6.jpg",
-          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Paper-and-Canvas/Paper-Canvas-6.jpg",
-          "description": "Apply paper-canvas-6 texture"
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/VHS/VHS-6.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/VHS/VHS-6.jpg",
+          "description": "Apply vhs-6 texture"
         },
         {
-          "filename": "Paper-Canvas-7",
-          "title": "Paper & Canvas 7",
+          "filename": "VHS-7",
+          "title": "VHS-7",
           "default_blend_mode": "overlay",
           "sequence_number": 7,
-          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paper-and-Canvas/Paper-Canvas-7.jpg",
-          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Paper-and-Canvas/Paper-Canvas-7.jpg",
-          "description": "Apply paper-canvas-7 texture"
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/VHS/VHS-7.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/VHS/VHS-7.jpg",
+          "description": "Apply vhs-7 texture"
         },
         {
-          "filename": "Paper-Canvas-8",
-          "title": "Paper & Canvas 8",
+          "filename": "VHS-8",
+          "title": "VHS-8",
           "default_blend_mode": "overlay",
           "sequence_number": 8,
-          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paper-and-Canvas/Paper-Canvas-8.jpg",
-          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Paper-and-Canvas/Paper-Canvas-8.jpg",
-          "description": "Apply paper-canvas-8 texture"
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/VHS/VHS-8.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/VHS/VHS-8.jpg",
+          "description": "Apply vhs-8 texture"
         },
         {
-          "filename": "Paper-Canvas-9",
-          "title": "Paper & Canvas 9",
+          "filename": "VHS-9",
+          "title": "VHS-9",
           "default_blend_mode": "overlay",
           "sequence_number": 9,
-          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paper-and-Canvas/Paper-Canvas-9.jpg",
-          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Paper-and-Canvas/Paper-Canvas-9.jpg",
-          "description": "Apply paper-canvas-9 texture"
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/VHS/VHS-9.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/VHS/VHS-9.jpg",
+          "description": "Apply vhs-9 texture"
         },
         {
-          "filename": "Paper-Canvas-10",
-          "title": "Paper & Canvas 10",
+          "filename": "VHS-10",
+          "title": "VHS-10",
           "default_blend_mode": "overlay",
           "sequence_number": 10,
-          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paper-and-Canvas/Paper-Canvas-10.jpg",
-          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Paper-and-Canvas/Paper-Canvas-10.jpg",
-          "description": "Apply paper-canvas-10 texture"
-        },
-        {
-          "filename": "Paper-Canvas-11",
-          "title": "Paper & Canvas 11",
-          "default_blend_mode": "overlay",
-          "sequence_number": 11,
-          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paper-and-Canvas/Paper-Canvas-11.jpg",
-          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Paper-and-Canvas/Paper-Canvas-11.jpg",
-          "description": "Apply paper-canvas-11 texture"
-        },
-        {
-          "filename": "Paper-Canvas-12",
-          "title": "Paper & Canvas 12",
-          "default_blend_mode": "overlay",
-          "sequence_number": 12,
-          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paper-and-Canvas/Paper-Canvas-12.jpg",
-          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Paper-and-Canvas/Paper-Canvas-12.jpg",
-          "description": "Apply paper-canvas-12 texture"
-        },
-        {
-          "filename": "Paper-Canvas-13",
-          "title": "Paper & Canvas 13",
-          "default_blend_mode": "overlay",
-          "sequence_number": 13,
-          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paper-and-Canvas/Paper-Canvas-13.jpg",
-          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Paper-and-Canvas/Paper-Canvas-13.jpg",
-          "description": "Apply paper-canvas-13 texture"
-        },
-        {
-          "filename": "Paper-Canvas-14",
-          "title": "Paper & Canvas 14",
-          "default_blend_mode": "overlay",
-          "sequence_number": 14,
-          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paper-and-Canvas/Paper-Canvas-14.jpg",
-          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Paper-and-Canvas/Paper-Canvas-14.jpg",
-          "description": "Apply paper-canvas-14 texture"
-        },
-        {
-          "filename": "Paper-Canvas-15",
-          "title": "Paper & Canvas 15",
-          "default_blend_mode": "overlay",
-          "sequence_number": 15,
-          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paper-and-Canvas/Paper-Canvas-15.jpg",
-          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Paper-and-Canvas/Paper-Canvas-15.jpg",
-          "description": "Apply paper-canvas-15 texture"
-        },
-        {
-          "filename": "Paper-Canvas-16",
-          "title": "Paper & Canvas 16",
-          "default_blend_mode": "overlay",
-          "sequence_number": 16,
-          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paper-and-Canvas/Paper-Canvas-16.jpg",
-          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Paper-and-Canvas/Paper-Canvas-16.jpg",
-          "description": "Apply paper-canvas-16 texture"
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/VHS/VHS-10.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/VHS/VHS-10.jpg",
+          "description": "Apply vhs-10 texture"
         }
       ]
     },
-    "Film-Grain": {
+    "Grit": {
+      "category": "Grit",
+      "textures": [
+        {
+          "filename": "Grit-1",
+          "title": "Grit-1",
+          "default_blend_mode": "overlay",
+          "sequence_number": 1,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grit/Grit-1.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Grit/Grit-1.jpg",
+          "description": "Apply grit-1 texture"
+        },
+        {
+          "filename": "Grit-2",
+          "title": "Grit-2",
+          "default_blend_mode": "overlay",
+          "sequence_number": 2,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grit/Grit-2.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Grit/Grit-2.jpg",
+          "description": "Apply grit-2 texture"
+        },
+        {
+          "filename": "Grit-3",
+          "title": "Grit-3",
+          "default_blend_mode": "overlay",
+          "sequence_number": 3,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grit/Grit-3.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Grit/Grit-3.jpg",
+          "description": "Apply grit-3 texture"
+        },
+        {
+          "filename": "Grit-4",
+          "title": "Grit-4",
+          "default_blend_mode": "overlay",
+          "sequence_number": 4,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grit/Grit-4.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Grit/Grit-4.jpg",
+          "description": "Apply grit-4 texture"
+        },
+        {
+          "filename": "Grit-5",
+          "title": "Grit-5",
+          "default_blend_mode": "overlay",
+          "sequence_number": 5,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grit/Grit-5.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Grit/Grit-5.jpg",
+          "description": "Apply grit-5 texture"
+        },
+        {
+          "filename": "Grit-6",
+          "title": "Grit-6",
+          "default_blend_mode": "overlay",
+          "sequence_number": 6,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grit/Grit-6.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Grit/Grit-6.jpg",
+          "description": "Apply grit-6 texture"
+        },
+        {
+          "filename": "Grit-7",
+          "title": "Grit-7",
+          "default_blend_mode": "overlay",
+          "sequence_number": 7,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grit/Grit-7.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Grit/Grit-7.jpg",
+          "description": "Apply grit-7 texture"
+        },
+        {
+          "filename": "Grit-8",
+          "title": "Grit-8",
+          "default_blend_mode": "overlay",
+          "sequence_number": 8,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grit/Grit-8.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Grit/Grit-8.jpg",
+          "description": "Apply grit-8 texture"
+        },
+        {
+          "filename": "Grit-9",
+          "title": "Grit-9",
+          "default_blend_mode": "overlay",
+          "sequence_number": 9,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grit/Grit-9.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Grit/Grit-9.jpg",
+          "description": "Apply grit-9 texture"
+        },
+        {
+          "filename": "Grit-10",
+          "title": "Grit-10",
+          "default_blend_mode": "overlay",
+          "sequence_number": 10,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grit/Grit-10.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Grit/Grit-10.jpg",
+          "description": "Apply grit-10 texture"
+        },
+        {
+          "filename": "Grit-11",
+          "title": "Grit-11",
+          "default_blend_mode": "overlay",
+          "sequence_number": 11,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grit/Grit-11.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Grit/Grit-11.jpg",
+          "description": "Apply grit-11 texture"
+        },
+        {
+          "filename": "Grit-12",
+          "title": "Grit-12",
+          "default_blend_mode": "overlay",
+          "sequence_number": 12,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grit/Grit-12.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Grit/Grit-12.jpg",
+          "description": "Apply grit-12 texture"
+        },
+        {
+          "filename": "Grit-13",
+          "title": "Grit-13",
+          "default_blend_mode": "overlay",
+          "sequence_number": 13,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grit/Grit-13.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Grit/Grit-13.jpg",
+          "description": "Apply grit-13 texture"
+        },
+        {
+          "filename": "Grit-14",
+          "title": "Grit-14",
+          "default_blend_mode": "overlay",
+          "sequence_number": 14,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grit/Grit-14.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Grit/Grit-14.jpg",
+          "description": "Apply grit-14 texture"
+        },
+        {
+          "filename": "Grit-15",
+          "title": "Grit-15",
+          "default_blend_mode": "overlay",
+          "sequence_number": 15,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grit/Grit-15.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Grit/Grit-15.jpg",
+          "description": "Apply grit-15 texture"
+        }
+      ]
+    },
+    "Film Grain": {
       "category": "Film Grain",
       "textures": [
         {
           "filename": "Film-Grain-1",
-          "title": "Film Grain 1",
+          "title": "Film-Grain-1",
           "default_blend_mode": "overlay",
           "sequence_number": 1,
-          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Film-Grain/Film-Grain-1.jpg",
-          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Film-Grain/Film-Grain-1.jpg",
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Film%20Grain/Film-Grain-1.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Film%20Grain/Film-Grain-1.jpg",
           "description": "Apply film-grain-1 texture"
         },
         {
           "filename": "Film-Grain-2",
-          "title": "Film Grain 2",
+          "title": "Film-Grain-2",
           "default_blend_mode": "overlay",
           "sequence_number": 2,
-          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Film-Grain/Film-Grain-2.jpg",
-          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Film-Grain/Film-Grain-2.jpg",
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Film%20Grain/Film-Grain-2.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Film%20Grain/Film-Grain-2.jpg",
           "description": "Apply film-grain-2 texture"
         },
         {
           "filename": "Film-Grain-3",
-          "title": "Film Grain 3",
+          "title": "Film-Grain-3",
           "default_blend_mode": "overlay",
           "sequence_number": 3,
-          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Film-Grain/Film-Grain-3.jpg",
-          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Film-Grain/Film-Grain-3.jpg",
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Film%20Grain/Film-Grain-3.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Film%20Grain/Film-Grain-3.jpg",
           "description": "Apply film-grain-3 texture"
         },
         {
           "filename": "Film-Grain-4",
-          "title": "Film Grain 4",
+          "title": "Film-Grain-4",
           "default_blend_mode": "overlay",
           "sequence_number": 4,
-          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Film-Grain/Film-Grain-4.jpg",
-          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Film-Grain/Film-Grain-4.jpg",
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Film%20Grain/Film-Grain-4.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Film%20Grain/Film-Grain-4.jpg",
           "description": "Apply film-grain-4 texture"
         },
         {
           "filename": "Film-Grain-5",
-          "title": "Film Grain 5",
+          "title": "Film-Grain-5",
           "default_blend_mode": "overlay",
           "sequence_number": 5,
-          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Film-Grain/Film-Grain-5.jpg",
-          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Film-Grain/Film-Grain-5.jpg",
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Film%20Grain/Film-Grain-5.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Film%20Grain/Film-Grain-5.jpg",
           "description": "Apply film-grain-5 texture"
         },
         {
           "filename": "Film-Grain-6",
-          "title": "Film Grain 6",
+          "title": "Film-Grain-6",
           "default_blend_mode": "overlay",
           "sequence_number": 6,
-          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Film-Grain/Film-Grain-6.jpg",
-          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Film-Grain/Film-Grain-6.jpg",
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Film%20Grain/Film-Grain-6.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Film%20Grain/Film-Grain-6.jpg",
           "description": "Apply film-grain-6 texture"
         },
         {
           "filename": "Film-Grain-7",
-          "title": "Film Grain 7",
+          "title": "Film-Grain-7",
           "default_blend_mode": "overlay",
           "sequence_number": 7,
-          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Film-Grain/Film-Grain-7.jpg",
-          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Film-Grain/Film-Grain-7.jpg",
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Film%20Grain/Film-Grain-7.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Film%20Grain/Film-Grain-7.jpg",
           "description": "Apply film-grain-7 texture"
         },
         {
           "filename": "Film-Grain-8",
-          "title": "Film Grain 8",
+          "title": "Film-Grain-8",
           "default_blend_mode": "overlay",
           "sequence_number": 8,
-          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Film-Grain/Film-Grain-8.jpg",
-          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Film-Grain/Film-Grain-8.jpg",
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Film%20Grain/Film-Grain-8.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Film%20Grain/Film-Grain-8.jpg",
           "description": "Apply film-grain-8 texture"
         },
         {
           "filename": "Film-Grain-9",
-          "title": "Film Grain 9",
+          "title": "Film-Grain-9",
           "default_blend_mode": "overlay",
           "sequence_number": 9,
-          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Film-Grain/Film-Grain-9.jpg",
-          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Film-Grain/Film-Grain-9.jpg",
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Film%20Grain/Film-Grain-9.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Film%20Grain/Film-Grain-9.jpg",
           "description": "Apply film-grain-9 texture"
         },
         {
           "filename": "Film-Grain-10",
-          "title": "Film Grain 10",
+          "title": "Film-Grain-10",
           "default_blend_mode": "overlay",
           "sequence_number": 10,
-          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Film-Grain/Film-Grain-10.jpg",
-          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Film-Grain/Film-Grain-10.jpg",
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Film%20Grain/Film-Grain-10.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Film%20Grain/Film-Grain-10.jpg",
           "description": "Apply film-grain-10 texture"
         }
       ]
     },
-    "Grain": {
-      "category": "Grain",
+    "Light": {
+      "category": "Light",
       "textures": [
         {
-          "filename": "Grain-1",
-          "title": "Grain 1",
+          "filename": "Light-1",
+          "title": "Light-1",
           "default_blend_mode": "overlay",
           "sequence_number": 1,
-          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grain/Grain-1.jpg",
-          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Grain/Grain-1.jpg",
-          "description": "Apply grain-1 texture"
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Light/Light-1.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Light/Light-1.jpg",
+          "description": "Apply light-1 texture"
         },
         {
-          "filename": "Grain-2",
-          "title": "Grain 2",
+          "filename": "Light-2",
+          "title": "Light-2",
           "default_blend_mode": "overlay",
           "sequence_number": 2,
-          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grain/Grain-2.jpg",
-          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Grain/Grain-2.jpg",
-          "description": "Apply grain-2 texture"
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Light/Light-2.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Light/Light-2.jpg",
+          "description": "Apply light-2 texture"
         },
         {
-          "filename": "Grain-3",
-          "title": "Grain 3",
+          "filename": "Light-3",
+          "title": "Light-3",
           "default_blend_mode": "overlay",
           "sequence_number": 3,
-          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grain/Grain-3.jpg",
-          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Grain/Grain-3.jpg",
-          "description": "Apply grain-3 texture"
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Light/Light-3.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Light/Light-3.jpg",
+          "description": "Apply light-3 texture"
         },
         {
-          "filename": "Grain-4",
-          "title": "Grain 4",
+          "filename": "Light-4",
+          "title": "Light-4",
           "default_blend_mode": "overlay",
           "sequence_number": 4,
-          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grain/Grain-4.jpg",
-          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Grain/Grain-4.jpg",
-          "description": "Apply grain-4 texture"
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Light/Light-4.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Light/Light-4.jpg",
+          "description": "Apply light-4 texture"
         },
         {
-          "filename": "Grain-5",
-          "title": "Grain 5",
+          "filename": "Light-5",
+          "title": "Light-5",
           "default_blend_mode": "overlay",
           "sequence_number": 5,
-          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grain/Grain-5.jpg",
-          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Grain/Grain-5.jpg",
-          "description": "Apply grain-5 texture"
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Light/Light-5.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Light/Light-5.jpg",
+          "description": "Apply light-5 texture"
         },
         {
-          "filename": "Grain-6",
-          "title": "Grain 6",
+          "filename": "Light-6",
+          "title": "Light-6",
           "default_blend_mode": "overlay",
           "sequence_number": 6,
-          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grain/Grain-6.jpg",
-          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Grain/Grain-6.jpg",
-          "description": "Apply grain-6 texture"
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Light/Light-6.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Light/Light-6.jpg",
+          "description": "Apply light-6 texture"
         },
         {
-          "filename": "Grain-7",
-          "title": "Grain 7",
+          "filename": "Light-7",
+          "title": "Light-7",
           "default_blend_mode": "overlay",
           "sequence_number": 7,
-          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grain/Grain-7.jpg",
-          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Grain/Grain-7.jpg",
-          "description": "Apply grain-7 texture"
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Light/Light-7.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Light/Light-7.jpg",
+          "description": "Apply light-7 texture"
         },
         {
-          "filename": "Grain-8",
-          "title": "Grain 8",
+          "filename": "Light-8",
+          "title": "Light-8",
           "default_blend_mode": "overlay",
           "sequence_number": 8,
-          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grain/Grain-8.jpg",
-          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Grain/Grain-8.jpg",
-          "description": "Apply grain-8 texture"
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Light/Light-8.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Light/Light-8.jpg",
+          "description": "Apply light-8 texture"
+        },
+        {
+          "filename": "Light-9",
+          "title": "Light-9",
+          "default_blend_mode": "overlay",
+          "sequence_number": 9,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Light/Light-9.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Light/Light-9.jpg",
+          "description": "Apply light-9 texture"
+        },
+        {
+          "filename": "Light-10",
+          "title": "Light-10",
+          "default_blend_mode": "overlay",
+          "sequence_number": 10,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Light/Light-10.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Light/Light-10.jpg",
+          "description": "Apply light-10 texture"
+        },
+        {
+          "filename": "Light-11",
+          "title": "Light-11",
+          "default_blend_mode": "overlay",
+          "sequence_number": 11,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Light/Light-11.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Light/Light-11.jpg",
+          "description": "Apply light-11 texture"
+        },
+        {
+          "filename": "Light-12",
+          "title": "Light-12",
+          "default_blend_mode": "overlay",
+          "sequence_number": 12,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Light/Light-12.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Light/Light-12.jpg",
+          "description": "Apply light-12 texture"
+        },
+        {
+          "filename": "Light-13",
+          "title": "Light-13",
+          "default_blend_mode": "overlay",
+          "sequence_number": 13,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Light/Light-13.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Light/Light-13.jpg",
+          "description": "Apply light-13 texture"
+        },
+        {
+          "filename": "Light-14",
+          "title": "Light-14",
+          "default_blend_mode": "overlay",
+          "sequence_number": 14,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Light/Light-14.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Light/Light-14.jpg",
+          "description": "Apply light-14 texture"
+        },
+        {
+          "filename": "Light-15",
+          "title": "Light-15",
+          "default_blend_mode": "overlay",
+          "sequence_number": 15,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Light/Light-15.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Light/Light-15.jpg",
+          "description": "Apply light-15 texture"
+        },
+        {
+          "filename": "Light-16",
+          "title": "Light-16",
+          "default_blend_mode": "overlay",
+          "sequence_number": 16,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Light/Light-16.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Light/Light-16.jpg",
+          "description": "Apply light-16 texture"
+        },
+        {
+          "filename": "Light-17",
+          "title": "Light-17",
+          "default_blend_mode": "overlay",
+          "sequence_number": 17,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Light/Light-17.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Light/Light-17.jpg",
+          "description": "Apply light-17 texture"
         }
       ]
     },
-    "Ink-and-Paint": {
-      "category": "Ink & Paint",
+    "Fabric": {
+      "category": "Fabric",
       "textures": [
         {
-          "filename": "Ink-Paint-6",
-          "title": "Ink & Paint 6",
+          "filename": "Fabric-1",
+          "title": "Fabric-1",
+          "default_blend_mode": "overlay",
+          "sequence_number": 1,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Fabric/Fabric-1.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Fabric/Fabric-1.jpg",
+          "description": "Apply fabric-1 texture"
+        },
+        {
+          "filename": "Fabric-2",
+          "title": "Fabric-2",
+          "default_blend_mode": "overlay",
+          "sequence_number": 2,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Fabric/Fabric-2.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Fabric/Fabric-2.jpg",
+          "description": "Apply fabric-2 texture"
+        },
+        {
+          "filename": "Fabric-3",
+          "title": "Fabric-3",
+          "default_blend_mode": "overlay",
+          "sequence_number": 3,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Fabric/Fabric-3.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Fabric/Fabric-3.jpg",
+          "description": "Apply fabric-3 texture"
+        },
+        {
+          "filename": "Fabric-4",
+          "title": "Fabric-4",
+          "default_blend_mode": "overlay",
+          "sequence_number": 4,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Fabric/Fabric-4.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Fabric/Fabric-4.jpg",
+          "description": "Apply fabric-4 texture"
+        },
+        {
+          "filename": "Fabric-5",
+          "title": "Fabric-5",
+          "default_blend_mode": "overlay",
+          "sequence_number": 5,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Fabric/Fabric-5.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Fabric/Fabric-5.jpg",
+          "description": "Apply fabric-5 texture"
+        },
+        {
+          "filename": "Fabric-6",
+          "title": "Fabric-6",
           "default_blend_mode": "overlay",
           "sequence_number": 6,
-          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Ink-and-Paint/Ink-Paint-6.jpg",
-          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Ink-and-Paint/Ink-Paint-6.jpg",
-          "description": "Paint splatter pattern"
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Fabric/Fabric-6.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Fabric/Fabric-6.jpg",
+          "description": "Apply fabric-6 texture"
         },
         {
-          "filename": "Ink-Paint-7",
-          "title": "Ink & Paint 7",
+          "filename": "Fabric-7",
+          "title": "Fabric-7",
           "default_blend_mode": "overlay",
           "sequence_number": 7,
-          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Ink-and-Paint/Ink-Paint-7.jpg",
-          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Ink-and-Paint/Ink-Paint-7.jpg",
-          "description": "Apply ink-paint-7 texture"
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Fabric/Fabric-7.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Fabric/Fabric-7.jpg",
+          "description": "Apply fabric-7 texture"
         },
         {
-          "filename": "Ink-Paint-8",
-          "title": "Ink & Paint 8",
+          "filename": "Fabric-8",
+          "title": "Fabric-8",
           "default_blend_mode": "overlay",
           "sequence_number": 8,
-          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Ink-and-Paint/Ink-Paint-8.jpg",
-          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Ink-and-Paint/Ink-Paint-8.jpg",
-          "description": "Apply ink-paint-8 texture"
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Fabric/Fabric-8.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Fabric/Fabric-8.jpg",
+          "description": "Apply fabric-8 texture"
         },
         {
-          "filename": "Ink-Paint-10",
-          "title": "Ink & Paint 10",
+          "filename": "Fabric-9",
+          "title": "Fabric-9",
+          "default_blend_mode": "overlay",
+          "sequence_number": 9,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Fabric/Fabric-9.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Fabric/Fabric-9.jpg",
+          "description": "Apply fabric-9 texture"
+        },
+        {
+          "filename": "Fabric-10",
+          "title": "Fabric-10",
           "default_blend_mode": "overlay",
           "sequence_number": 10,
-          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Ink-and-Paint/Ink-Paint-10.jpg",
-          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Ink-and-Paint/Ink-Paint-10.jpg",
-          "description": "Apply ink-paint-10 texture"
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Fabric/Fabric-10.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Fabric/Fabric-10.jpg",
+          "description": "Apply fabric-10 texture"
+        },
+        {
+          "filename": "Fabric-11",
+          "title": "Fabric-11",
+          "default_blend_mode": "overlay",
+          "sequence_number": 11,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Fabric/Fabric-11.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Fabric/Fabric-11.jpg",
+          "description": "Apply fabric-11 texture"
+        },
+        {
+          "filename": "Fabric-12",
+          "title": "Fabric-12",
+          "default_blend_mode": "overlay",
+          "sequence_number": 12,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Fabric/Fabric-12.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Fabric/Fabric-12.jpg",
+          "description": "Apply fabric-12 texture"
+        },
+        {
+          "filename": "Fabric-13",
+          "title": "Fabric-13",
+          "default_blend_mode": "overlay",
+          "sequence_number": 13,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Fabric/Fabric-13.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Fabric/Fabric-13.jpg",
+          "description": "Apply fabric-13 texture"
+        },
+        {
+          "filename": "Fabric-14",
+          "title": "Fabric-14",
+          "default_blend_mode": "overlay",
+          "sequence_number": 14,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Fabric/Fabric-14.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Fabric/Fabric-14.jpg",
+          "description": "Apply fabric-14 texture"
+        },
+        {
+          "filename": "Fabric-15",
+          "title": "Fabric-15",
+          "default_blend_mode": "overlay",
+          "sequence_number": 15,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Fabric/Fabric-15.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Fabric/Fabric-15.jpg",
+          "description": "Apply fabric-15 texture"
         }
       ]
     },
@@ -619,17 +1002,17 @@
       "category": "Grunge",
       "textures": [
         {
-          "filename": "Grunge-test",
-          "title": "Grunge 1",
+          "filename": "Grunge-1",
+          "title": "Grunge-1",
           "default_blend_mode": "overlay",
           "sequence_number": 1,
-          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grunge/Grunge-test.jpg",
-          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Grunge/Grunge-test.jpg",
-          "description": "Apply grunge-test texture"
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grunge/Grunge-1.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Grunge/Grunge-1.jpg",
+          "description": "Apply grunge-1 texture"
         },
         {
           "filename": "Grunge-2",
-          "title": "Grunge 2",
+          "title": "Grunge-2",
           "default_blend_mode": "overlay",
           "sequence_number": 2,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grunge/Grunge-2.jpg",
@@ -638,7 +1021,7 @@
         },
         {
           "filename": "Grunge-3",
-          "title": "Grunge 3",
+          "title": "Grunge-3",
           "default_blend_mode": "overlay",
           "sequence_number": 3,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grunge/Grunge-3.jpg",
@@ -647,7 +1030,7 @@
         },
         {
           "filename": "Grunge-4",
-          "title": "Grunge 4",
+          "title": "Grunge-4",
           "default_blend_mode": "overlay",
           "sequence_number": 4,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grunge/Grunge-4.jpg",
@@ -656,7 +1039,7 @@
         },
         {
           "filename": "Grunge-5",
-          "title": "Grunge 5",
+          "title": "Grunge-5",
           "default_blend_mode": "overlay",
           "sequence_number": 5,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grunge/Grunge-5.jpg",
@@ -665,7 +1048,7 @@
         },
         {
           "filename": "Grunge-6",
-          "title": "Grunge 6",
+          "title": "Grunge-6",
           "default_blend_mode": "overlay",
           "sequence_number": 6,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grunge/Grunge-6.jpg",
@@ -674,7 +1057,7 @@
         },
         {
           "filename": "Grunge-7",
-          "title": "Grunge 7",
+          "title": "Grunge-7",
           "default_blend_mode": "overlay",
           "sequence_number": 7,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grunge/Grunge-7.jpg",
@@ -683,7 +1066,7 @@
         },
         {
           "filename": "Grunge-8",
-          "title": "Grunge 8",
+          "title": "Grunge-8",
           "default_blend_mode": "overlay",
           "sequence_number": 8,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grunge/Grunge-8.jpg",
@@ -692,7 +1075,7 @@
         },
         {
           "filename": "Grunge-9",
-          "title": "Grunge 9",
+          "title": "Grunge-9",
           "default_blend_mode": "overlay",
           "sequence_number": 9,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grunge/Grunge-9.jpg",
@@ -701,7 +1084,7 @@
         },
         {
           "filename": "Grunge-10",
-          "title": "Grunge 10",
+          "title": "Grunge-10",
           "default_blend_mode": "overlay",
           "sequence_number": 10,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grunge/Grunge-10.jpg",
@@ -710,7 +1093,7 @@
         },
         {
           "filename": "Grunge-11",
-          "title": "Grunge 11",
+          "title": "Grunge-11",
           "default_blend_mode": "overlay",
           "sequence_number": 11,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grunge/Grunge-11.jpg",
@@ -719,7 +1102,7 @@
         },
         {
           "filename": "Grunge-12",
-          "title": "Grunge 12",
+          "title": "Grunge-12",
           "default_blend_mode": "overlay",
           "sequence_number": 12,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grunge/Grunge-12.jpg",
@@ -728,7 +1111,7 @@
         },
         {
           "filename": "Grunge-13",
-          "title": "Grunge 13",
+          "title": "Grunge-13",
           "default_blend_mode": "overlay",
           "sequence_number": 13,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grunge/Grunge-13.jpg",
@@ -737,7 +1120,7 @@
         },
         {
           "filename": "Grunge-14",
-          "title": "Grunge 14",
+          "title": "Grunge-14",
           "default_blend_mode": "overlay",
           "sequence_number": 14,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grunge/Grunge-14.jpg",
@@ -746,7 +1129,7 @@
         },
         {
           "filename": "Grunge-15",
-          "title": "Grunge 15",
+          "title": "Grunge-15",
           "default_blend_mode": "overlay",
           "sequence_number": 15,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grunge/Grunge-15.jpg",
@@ -755,7 +1138,7 @@
         },
         {
           "filename": "Grunge-16",
-          "title": "Grunge 16",
+          "title": "Grunge-16",
           "default_blend_mode": "overlay",
           "sequence_number": 16,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grunge/Grunge-16.jpg",
@@ -764,7 +1147,7 @@
         },
         {
           "filename": "Grunge-17",
-          "title": "Grunge 17",
+          "title": "Grunge-17",
           "default_blend_mode": "overlay",
           "sequence_number": 17,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grunge/Grunge-17.jpg",
@@ -773,7 +1156,7 @@
         },
         {
           "filename": "Grunge-18",
-          "title": "Grunge 18",
+          "title": "Grunge-18",
           "default_blend_mode": "overlay",
           "sequence_number": 18,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grunge/Grunge-18.jpg",
@@ -782,7 +1165,7 @@
         },
         {
           "filename": "Grunge-19",
-          "title": "Grunge 19",
+          "title": "Grunge-19",
           "default_blend_mode": "overlay",
           "sequence_number": 19,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grunge/Grunge-19.jpg",
@@ -791,7 +1174,7 @@
         },
         {
           "filename": "Grunge-20",
-          "title": "Grunge 20",
+          "title": "Grunge-20",
           "default_blend_mode": "overlay",
           "sequence_number": 20,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grunge/Grunge-20.jpg",
@@ -800,7 +1183,7 @@
         },
         {
           "filename": "Grunge-21",
-          "title": "Grunge 21",
+          "title": "Grunge-21",
           "default_blend_mode": "overlay",
           "sequence_number": 21,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grunge/Grunge-21.jpg",
@@ -809,7 +1192,7 @@
         },
         {
           "filename": "Grunge-22",
-          "title": "Grunge 22",
+          "title": "Grunge-22",
           "default_blend_mode": "overlay",
           "sequence_number": 22,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grunge/Grunge-22.jpg",
@@ -818,107 +1201,30 @@
         },
         {
           "filename": "Grunge-23",
-          "title": "Grunge 23",
+          "title": "Grunge-23",
           "default_blend_mode": "overlay",
           "sequence_number": 23,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grunge/Grunge-23.jpg",
           "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Grunge/Grunge-23.jpg",
           "description": "Apply grunge-23 texture"
-        }
-      ]
-    },
-    "Halftone": {
-      "category": "Halftone",
-      "textures": [
-        {
-          "filename": "Halftone-1",
-          "title": "Halftone 1",
-          "default_blend_mode": "overlay",
-          "sequence_number": 1,
-          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Halftone/Halftone-1.jpg",
-          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Halftone/Halftone-1.jpg",
-          "description": "Apply halftone-1 texture"
         },
         {
-          "filename": "Halftone-2",
-          "title": "Halftone 2",
+          "filename": "Grunge-24",
+          "title": "Grunge-24",
           "default_blend_mode": "overlay",
-          "sequence_number": 2,
-          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Halftone/Halftone-2.jpg",
-          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Halftone/Halftone-2.jpg",
-          "description": "Apply halftone-2 texture"
+          "sequence_number": 24,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grunge/Grunge-24.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Grunge/Grunge-24.jpg",
+          "description": "Apply grunge-24 texture"
         },
         {
-          "filename": "Halftone-3",
-          "title": "Halftone 3",
+          "filename": "Grunge-25",
+          "title": "Grunge-25",
           "default_blend_mode": "overlay",
-          "sequence_number": 3,
-          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Halftone/Halftone-3.jpg",
-          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Halftone/Halftone-3.jpg",
-          "description": "Apply halftone-3 texture"
-        },
-        {
-          "filename": "Halftone-4",
-          "title": "Halftone 4",
-          "default_blend_mode": "overlay",
-          "sequence_number": 4,
-          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Halftone/Halftone-4.jpg",
-          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Halftone/Halftone-4.jpg",
-          "description": "Apply halftone-4 texture"
-        },
-        {
-          "filename": "Halftone-5",
-          "title": "Halftone 5",
-          "default_blend_mode": "overlay",
-          "sequence_number": 5,
-          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Halftone/Halftone-5.jpg",
-          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Halftone/Halftone-5.jpg",
-          "description": "Apply halftone-5 texture"
-        },
-        {
-          "filename": "Halftone-6",
-          "title": "Halftone 6",
-          "default_blend_mode": "overlay",
-          "sequence_number": 6,
-          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Halftone/Halftone-6.jpg",
-          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Halftone/Halftone-6.jpg",
-          "description": "Apply halftone-6 texture"
-        },
-        {
-          "filename": "Halftone-7",
-          "title": "Halftone 7",
-          "default_blend_mode": "overlay",
-          "sequence_number": 7,
-          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Halftone/Halftone-7.jpg",
-          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Halftone/Halftone-7.jpg",
-          "description": "Apply halftone-7 texture"
-        },
-        {
-          "filename": "Halftone-8",
-          "title": "Halftone 8",
-          "default_blend_mode": "overlay",
-          "sequence_number": 8,
-          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Halftone/Halftone-8.jpg",
-          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Halftone/Halftone-8.jpg",
-          "description": "Apply halftone-8 texture"
-        },
-        {
-          "filename": "Halftone-9",
-          "title": "Halftone 9",
-          "default_blend_mode": "overlay",
-          "sequence_number": 9,
-          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Halftone/Halftone-9.jpg",
-          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Halftone/Halftone-9.jpg",
-          "description": "Apply halftone-9 texture"
-        },
-        {
-          "filename": "Halftone-10",
-          "title": "Halftone 10",
-          "default_blend_mode": "overlay",
-          "sequence_number": 10,
-          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Halftone/Halftone-10.jpg",
-          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Halftone/Halftone-10.jpg",
-          "description": "Apply halftone-10 texture"
+          "sequence_number": 25,
+          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grunge/Grunge-25.jpg",
+          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Grunge/Grunge-25.jpg",
+          "description": "Apply grunge-25 texture"
         }
       ]
     }
