@@ -33,7 +33,7 @@
         {
           "filename": "Paper-4",
           "title": "Worn Divide",
-          "default_blend_mode": "overlay",
+          "default_blend_mode": "screen",
           "sequence_number": 4,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paper/Paper-4.jpg",
           "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Paper/Paper-4.jpg",
