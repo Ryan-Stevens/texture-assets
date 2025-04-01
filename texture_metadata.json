@@ -5,21 +5,21 @@
       "textures": [
         {
           "filename": "Paper-1",
-          "title": "Paper-1",
+          "title": "Folded Paper",
           "default_blend_mode": "overlay",
           "sequence_number": 1,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paper/Paper-1.jpg",
           "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Paper/Paper-1.jpg",
-          "description": "Apply paper-1 texture"
+          "description": "Double folded paper"
         },
         {
           "filename": "Paper-2",
-          "title": "Paper-2",
-          "default_blend_mode": "overlay",
+          "title": "Quality Paper",
+          "default_blend_mode": "multiply",
           "sequence_number": 2,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paper/Paper-2.jpg",
           "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Paper/Paper-2.jpg",
-          "description": "Apply paper-2 texture"
+          "description": "High detail quality paper"
         },
         {
           "filename": "Paper-3",
