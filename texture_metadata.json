@@ -42,7 +42,7 @@
         {
           "filename": "Paper-5",
           "title": "Subtle Folds",
-          "default_blend_mode": "overlay",
+          "default_blend_mode": "multiply",
           "sequence_number": 5,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paper/Paper-5.jpg",
           "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Paper/Paper-5.jpg",
@@ -51,7 +51,7 @@
         {
           "filename": "Paper-6",
           "title": "Smooth Surface",
-          "default_blend_mode": "overlay",
+          "default_blend_mode": "multiply",
           "sequence_number": 6,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paper/Paper-6.jpg",
           "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Paper/Paper-6.jpg",
@@ -60,7 +60,7 @@
         {
           "filename": "Paper-7",
           "title": "Smooth Fabric",
-          "default_blend_mode": "overlay",
+          "default_blend_mode": "multiply",
           "sequence_number": 7,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paper/Paper-7.jpg",
           "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Paper/Paper-7.jpg",
@@ -69,7 +69,7 @@
         {
           "filename": "Paper-8",
           "title": "Soft Folds",
-          "default_blend_mode": "overlay",
+          "default_blend_mode": "multiply",
           "sequence_number": 8,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paper/Paper-8.jpg",
           "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Paper/Paper-8.jpg",
@@ -78,7 +78,7 @@
         {
           "filename": "Paper-9",
           "title": "Smooth Paper",
-          "default_blend_mode": "overlay",
+          "default_blend_mode": "multiply",
           "sequence_number": 9,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paper/Paper-9.jpg",
           "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Paper/Paper-9.jpg",
@@ -87,7 +87,7 @@
         {
           "filename": "Paper-10",
           "title": "Mist Texture",
-          "default_blend_mode": "overlay",
+          "default_blend_mode": "multiply",
           "sequence_number": 10,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paper/Paper-10.jpg",
           "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Paper/Paper-10.jpg",
@@ -96,7 +96,7 @@
         {
           "filename": "Paper-11",
           "title": "Subtle Grunge",
-          "default_blend_mode": "overlay",
+          "default_blend_mode": "multiply",
           "sequence_number": 11,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paper/Paper-11.jpg",
           "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Paper/Paper-11.jpg",
@@ -105,7 +105,7 @@
         {
           "filename": "Paper-12",
           "title": "Crumpled Paper",
-          "default_blend_mode": "overlay",
+          "default_blend_mode": "multiply",
           "sequence_number": 12,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paper/Paper-12.jpg",
           "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Paper/Paper-12.jpg",
@@ -114,7 +114,7 @@
         {
           "filename": "Paper-13",
           "title": "Subtle Texture",
-          "default_blend_mode": "overlay",
+          "default_blend_mode": "multiply",
           "sequence_number": 13,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paper/Paper-13.jpg",
           "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Paper/Paper-13.jpg",
@@ -123,7 +123,7 @@
         {
           "filename": "Paper-14",
           "title": "Subtle Linen",
-          "default_blend_mode": "overlay",
+          "default_blend_mode": "multiply",
           "sequence_number": 14,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paper/Paper-14.jpg",
           "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Paper/Paper-14.jpg",
@@ -132,7 +132,7 @@
         {
           "filename": "Paper-15",
           "title": "Crumpled Paper",
-          "default_blend_mode": "overlay",
+          "default_blend_mode": "multiply",
           "sequence_number": 15,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paper/Paper-15.jpg",
           "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Paper/Paper-15.jpg",
@@ -141,7 +141,7 @@
         {
           "filename": "Paper-16",
           "title": "Crumpled Paper",
-          "default_blend_mode": "overlay",
+          "default_blend_mode": "multiply",
           "sequence_number": 16,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paper/Paper-16.jpg",
           "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Paper/Paper-16.jpg",
@@ -150,7 +150,7 @@
         {
           "filename": "Paper-17",
           "title": "Crumpled Paper",
-          "default_blend_mode": "overlay",
+          "default_blend_mode": "multiply",
           "sequence_number": 17,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paper/Paper-17.jpg",
           "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Paper/Paper-17.jpg",
@@ -159,7 +159,7 @@
         {
           "filename": "Paper-18",
           "title": "Textured Canvas",
-          "default_blend_mode": "overlay",
+          "default_blend_mode": "multiply",
           "sequence_number": 18,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paper/Paper-18.jpg",
           "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Paper/Paper-18.jpg",
@@ -168,7 +168,7 @@
         {
           "filename": "Paper-19",
           "title": "Crumpled Paper",
-          "default_blend_mode": "overlay",
+          "default_blend_mode": "multiply",
           "sequence_number": 19,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paper/Paper-19.jpg",
           "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Paper/Paper-19.jpg",
@@ -177,7 +177,7 @@
         {
           "filename": "Paper-20",
           "title": "Subtle Grain",
-          "default_blend_mode": "overlay",
+          "default_blend_mode": "multiply",
           "sequence_number": 20,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paper/Paper-20.jpg",
           "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Paper/Paper-20.jpg",
@@ -186,7 +186,7 @@
         {
           "filename": "Paper-21",
           "title": "Subtle Grain",
-          "default_blend_mode": "overlay",
+          "default_blend_mode": "multiply",
           "sequence_number": 21,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paper/Paper-21.jpg",
           "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Paper/Paper-21.jpg",
@@ -195,7 +195,7 @@
         {
           "filename": "Paper-22",
           "title": "Subtle Grain",
-          "default_blend_mode": "overlay",
+          "default_blend_mode": "multiply",
           "sequence_number": 22,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paper/Paper-22.jpg",
           "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Paper/Paper-22.jpg",
@@ -204,7 +204,7 @@
         {
           "filename": "Paper-23",
           "title": "Textured Paper",
-          "default_blend_mode": "overlay",
+          "default_blend_mode": "multiply",
           "sequence_number": 23,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paper/Paper-23.jpg",
           "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Paper/Paper-23.jpg",
@@ -213,7 +213,7 @@
         {
           "filename": "Paper-24",
           "title": "Parchment Surface",
-          "default_blend_mode": "overlay",
+          "default_blend_mode": "multiply",
           "sequence_number": 24,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paper/Paper-24.jpg",
           "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Paper/Paper-24.jpg",
@@ -222,7 +222,7 @@
         {
           "filename": "Paper-25",
           "title": "Paper Grain",
-          "default_blend_mode": "overlay",
+          "default_blend_mode": "multiply",
           "sequence_number": 25,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paper/Paper-25.jpg",
           "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Paper/Paper-25.jpg",
@@ -236,7 +236,7 @@
         {
           "filename": "Paint-1",
           "title": "Brush Strokes",
-          "default_blend_mode": "overlay",
+          "default_blend_mode": "multiply",
           "sequence_number": 1,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paint/Paint-1.jpg",
           "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Paint/Paint-1.jpg",
@@ -254,7 +254,7 @@
         {
           "filename": "Paint-3",
           "title": "Dark Swirls",
-          "default_blend_mode": "overlay",
+          "default_blend_mode": "screen",
           "sequence_number": 3,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paint/Paint-3.jpg",
           "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Paint/Paint-3.jpg",
@@ -263,7 +263,7 @@
         {
           "filename": "Paint-4",
           "title": "Brush Strokes",
-          "default_blend_mode": "overlay",
+          "default_blend_mode": "multiply",
           "sequence_number": 4,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paint/Paint-4.jpg",
           "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Paint/Paint-4.jpg",
@@ -272,7 +272,7 @@
         {
           "filename": "Paint-5",
           "title": "Brushed Chaos",
-          "default_blend_mode": "overlay",
+          "default_blend_mode": "screen",
           "sequence_number": 5,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paint/Paint-5.jpg",
           "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Paint/Paint-5.jpg",
@@ -281,7 +281,7 @@
         {
           "filename": "Paint-6",
           "title": "Textured White",
-          "default_blend_mode": "overlay",
+          "default_blend_mode": "multiply",
           "sequence_number": 6,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paint/Paint-6.jpg",
           "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Paint/Paint-6.jpg",
@@ -290,7 +290,7 @@
         {
           "filename": "Paint-7",
           "title": "White Woodgrain",
-          "default_blend_mode": "overlay",
+          "default_blend_mode": "multiply",
           "sequence_number": 7,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paint/Paint-7.jpg",
           "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Paint/Paint-7.jpg",
@@ -299,7 +299,7 @@
         {
           "filename": "Paint-8",
           "title": "Smooth Canvas",
-          "default_blend_mode": "overlay",
+          "default_blend_mode": "multiply",
           "sequence_number": 8,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paint/Paint-8.jpg",
           "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Paint/Paint-8.jpg",
@@ -308,7 +308,7 @@
         {
           "filename": "Paint-9",
           "title": "Foggy Mist",
-          "default_blend_mode": "overlay",
+          "default_blend_mode": "multiply",
           "sequence_number": 9,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paint/Paint-9.jpg",
           "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Paint/Paint-9.jpg",
@@ -317,7 +317,7 @@
         {
           "filename": "Paint-10",
           "title": "Silky Waves",
-          "default_blend_mode": "overlay",
+          "default_blend_mode": "multiply",
           "sequence_number": 10,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paint/Paint-10.jpg",
           "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Paint/Paint-10.jpg",
@@ -326,7 +326,7 @@
         {
           "filename": "Paint-11",
           "title": "Ink Splatter",
-          "default_blend_mode": "overlay",
+          "default_blend_mode": "multiply",
           "sequence_number": 11,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paint/Paint-11.jpg",
           "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Paint/Paint-11.jpg",
@@ -335,7 +335,7 @@
         {
           "filename": "Paint-12",
           "title": "Colorful Splatter",
-          "default_blend_mode": "overlay",
+          "default_blend_mode": "multiply",
           "sequence_number": 12,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paint/Paint-12.jpg",
           "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Paint/Paint-12.jpg",
@@ -344,7 +344,7 @@
         {
           "filename": "Paint-13",
           "title": "Neon Splatter",
-          "default_blend_mode": "overlay",
+          "default_blend_mode": "difference",
           "sequence_number": 13,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paint/Paint-13.jpg",
           "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Paint/Paint-13.jpg",
