@@ -5,7 +5,7 @@
       "textures": [
         {
           "filename": "Paper-1",
-          "title": "Worn Paper",
+          "title": "Worn paper",
           "default_blend_mode": "overlay",
           "sequence_number": 1,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paper/Paper-1.jpg",
@@ -14,7 +14,7 @@
         },
         {
           "filename": "Paper-2",
-          "title": "Smooth Canvas",
+          "title": "Smooth canvas",
           "default_blend_mode": "multiply",
           "sequence_number": 2,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paper/Paper-2.jpg",
@@ -23,7 +23,7 @@
         },
         {
           "filename": "Paper-3",
-          "title": "Rough Surface",
+          "title": "Rough surface",
           "default_blend_mode": "overlay",
           "sequence_number": 3,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paper/Paper-3.jpg",
@@ -32,7 +32,7 @@
         },
         {
           "filename": "Paper-4",
-          "title": "Worn Divide",
+          "title": "Worn divide",
           "default_blend_mode": "screen",
           "sequence_number": 4,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paper/Paper-4.jpg",
@@ -41,7 +41,7 @@
         },
         {
           "filename": "Paper-5",
-          "title": "Subtle Folds",
+          "title": "Subtle folds",
           "default_blend_mode": "multiply",
           "sequence_number": 5,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paper/Paper-5.jpg",
@@ -50,7 +50,7 @@
         },
         {
           "filename": "Paper-6",
-          "title": "Smooth Surface",
+          "title": "Smooth surface",
           "default_blend_mode": "multiply",
           "sequence_number": 6,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paper/Paper-6.jpg",
@@ -59,7 +59,7 @@
         },
         {
           "filename": "Paper-7",
-          "title": "Smooth Fabric",
+          "title": "Smooth fabric",
           "default_blend_mode": "multiply",
           "sequence_number": 7,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paper/Paper-7.jpg",
@@ -68,7 +68,7 @@
         },
         {
           "filename": "Paper-8",
-          "title": "Soft Folds",
+          "title": "Soft folds",
           "default_blend_mode": "multiply",
           "sequence_number": 8,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paper/Paper-8.jpg",
@@ -77,7 +77,7 @@
         },
         {
           "filename": "Paper-9",
-          "title": "Smooth Paper",
+          "title": "Smooth paper",
           "default_blend_mode": "multiply",
           "sequence_number": 9,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paper/Paper-9.jpg",
@@ -86,7 +86,7 @@
         },
         {
           "filename": "Paper-10",
-          "title": "Mist Texture",
+          "title": "Mist texture",
           "default_blend_mode": "multiply",
           "sequence_number": 10,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paper/Paper-10.jpg",
@@ -95,7 +95,7 @@
         },
         {
           "filename": "Paper-11",
-          "title": "Subtle Grunge",
+          "title": "Subtle grunge",
           "default_blend_mode": "multiply",
           "sequence_number": 11,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paper/Paper-11.jpg",
@@ -104,7 +104,7 @@
         },
         {
           "filename": "Paper-12",
-          "title": "Crumpled Paper",
+          "title": "Crumpled paper",
           "default_blend_mode": "multiply",
           "sequence_number": 12,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paper/Paper-12.jpg",
@@ -113,7 +113,7 @@
         },
         {
           "filename": "Paper-13",
-          "title": "Subtle Texture",
+          "title": "Subtle texture",
           "default_blend_mode": "multiply",
           "sequence_number": 13,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paper/Paper-13.jpg",
@@ -122,7 +122,7 @@
         },
         {
           "filename": "Paper-14",
-          "title": "Subtle Linen",
+          "title": "Subtle linen",
           "default_blend_mode": "multiply",
           "sequence_number": 14,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paper/Paper-14.jpg",
@@ -131,7 +131,7 @@
         },
         {
           "filename": "Paper-15",
-          "title": "Crumpled Paper",
+          "title": "Crumpled paper",
           "default_blend_mode": "multiply",
           "sequence_number": 15,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paper/Paper-15.jpg",
@@ -140,7 +140,7 @@
         },
         {
           "filename": "Paper-16",
-          "title": "Crumpled Paper",
+          "title": "Crumpled paper",
           "default_blend_mode": "multiply",
           "sequence_number": 16,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paper/Paper-16.jpg",
@@ -149,7 +149,7 @@
         },
         {
           "filename": "Paper-17",
-          "title": "Crumpled Paper",
+          "title": "Crumpled paper",
           "default_blend_mode": "multiply",
           "sequence_number": 17,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paper/Paper-17.jpg",
@@ -158,7 +158,7 @@
         },
         {
           "filename": "Paper-18",
-          "title": "Textured Canvas",
+          "title": "Textured canvas",
           "default_blend_mode": "multiply",
           "sequence_number": 18,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paper/Paper-18.jpg",
@@ -167,7 +167,7 @@
         },
         {
           "filename": "Paper-19",
-          "title": "Crumpled Paper",
+          "title": "Crumpled paper",
           "default_blend_mode": "multiply",
           "sequence_number": 19,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paper/Paper-19.jpg",
@@ -176,7 +176,7 @@
         },
         {
           "filename": "Paper-20",
-          "title": "Subtle Grain",
+          "title": "Subtle grain",
           "default_blend_mode": "multiply",
           "sequence_number": 20,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paper/Paper-20.jpg",
@@ -185,7 +185,7 @@
         },
         {
           "filename": "Paper-21",
-          "title": "Subtle Grain",
+          "title": "Subtle grain",
           "default_blend_mode": "multiply",
           "sequence_number": 21,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paper/Paper-21.jpg",
@@ -194,7 +194,7 @@
         },
         {
           "filename": "Paper-22",
-          "title": "Subtle Grain",
+          "title": "Subtle grain",
           "default_blend_mode": "multiply",
           "sequence_number": 22,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paper/Paper-22.jpg",
@@ -203,7 +203,7 @@
         },
         {
           "filename": "Paper-23",
-          "title": "Textured Paper",
+          "title": "Textured paper",
           "default_blend_mode": "multiply",
           "sequence_number": 23,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paper/Paper-23.jpg",
@@ -212,7 +212,7 @@
         },
         {
           "filename": "Paper-24",
-          "title": "Parchment Surface",
+          "title": "Parchment surface",
           "default_blend_mode": "multiply",
           "sequence_number": 24,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paper/Paper-24.jpg",
@@ -221,7 +221,7 @@
         },
         {
           "filename": "Paper-25",
-          "title": "Paper Grain",
+          "title": "Paper grain",
           "default_blend_mode": "multiply",
           "sequence_number": 25,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paper/Paper-25.jpg",
@@ -235,7 +235,7 @@
       "textures": [
         {
           "filename": "Paint-1",
-          "title": "Brush Strokes",
+          "title": "Brush strokes",
           "default_blend_mode": "multiply",
           "sequence_number": 1,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paint/Paint-1.jpg",
@@ -244,7 +244,7 @@
         },
         {
           "filename": "Paint-2",
-          "title": "Speckled Mist",
+          "title": "Speckled mist",
           "default_blend_mode": "overlay",
           "sequence_number": 2,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paint/Paint-2.jpg",
@@ -253,7 +253,7 @@
         },
         {
           "filename": "Paint-3",
-          "title": "Dark Swirls",
+          "title": "Dark swirls",
           "default_blend_mode": "screen",
           "sequence_number": 3,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paint/Paint-3.jpg",
@@ -262,7 +262,7 @@
         },
         {
           "filename": "Paint-4",
-          "title": "Brush Strokes",
+          "title": "Brush strokes",
           "default_blend_mode": "multiply",
           "sequence_number": 4,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paint/Paint-4.jpg",
@@ -271,7 +271,7 @@
         },
         {
           "filename": "Paint-5",
-          "title": "Brushed Chaos",
+          "title": "Brushed chaos",
           "default_blend_mode": "screen",
           "sequence_number": 5,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paint/Paint-5.jpg",
@@ -280,7 +280,7 @@
         },
         {
           "filename": "Paint-6",
-          "title": "Textured White",
+          "title": "Textured white",
           "default_blend_mode": "multiply",
           "sequence_number": 6,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paint/Paint-6.jpg",
@@ -289,7 +289,7 @@
         },
         {
           "filename": "Paint-7",
-          "title": "White Woodgrain",
+          "title": "White woodgrain",
           "default_blend_mode": "multiply",
           "sequence_number": 7,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paint/Paint-7.jpg",
@@ -298,7 +298,7 @@
         },
         {
           "filename": "Paint-8",
-          "title": "Smooth Canvas",
+          "title": "Smooth canvas",
           "default_blend_mode": "multiply",
           "sequence_number": 8,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paint/Paint-8.jpg",
@@ -307,7 +307,7 @@
         },
         {
           "filename": "Paint-9",
-          "title": "Foggy Mist",
+          "title": "Foggy mist",
           "default_blend_mode": "multiply",
           "sequence_number": 9,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paint/Paint-9.jpg",
@@ -316,7 +316,7 @@
         },
         {
           "filename": "Paint-10",
-          "title": "Silky Waves",
+          "title": "Silky waves",
           "default_blend_mode": "multiply",
           "sequence_number": 10,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paint/Paint-10.jpg",
@@ -325,7 +325,7 @@
         },
         {
           "filename": "Paint-11",
-          "title": "Ink Splatter",
+          "title": "Ink splatter",
           "default_blend_mode": "multiply",
           "sequence_number": 11,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paint/Paint-11.jpg",
@@ -334,7 +334,7 @@
         },
         {
           "filename": "Paint-12",
-          "title": "Colorful Splatter",
+          "title": "Colorful splatter",
           "default_blend_mode": "multiply",
           "sequence_number": 12,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paint/Paint-12.jpg",
@@ -343,7 +343,7 @@
         },
         {
           "filename": "Paint-13",
-          "title": "Neon Splatter",
+          "title": "Neon splatter",
           "default_blend_mode": "difference",
           "sequence_number": 13,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paint/Paint-13.jpg",
@@ -352,7 +352,7 @@
         },
         {
           "filename": "Paint-14",
-          "title": "Brush Strokes",
+          "title": "Brush strokes",
           "default_blend_mode": "multiply",
           "sequence_number": 14,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paint/Paint-14.jpg",
@@ -361,7 +361,7 @@
         },
         {
           "filename": "Paint-15",
-          "title": "Brush Strokes",
+          "title": "Brush strokes",
           "default_blend_mode": "multiply",
           "sequence_number": 15,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paint/Paint-15.jpg",
@@ -375,7 +375,7 @@
       "textures": [
         {
           "filename": "VHS-1",
-          "title": "Digital Matrix",
+          "title": "Digital matrix",
           "default_blend_mode": "screen",
           "sequence_number": 1,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/VHS/VHS-1.jpg",
@@ -384,7 +384,7 @@
         },
         {
           "filename": "VHS-2",
-          "title": "Glitch Vivid",
+          "title": "Glitch vivid",
           "default_blend_mode": "overlay",
           "sequence_number": 2,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/VHS/VHS-2.jpg",
@@ -393,7 +393,7 @@
         },
         {
           "filename": "VHS-3",
-          "title": "Colorful Distortion",
+          "title": "Colorful distortion",
           "default_blend_mode": "overlay",
           "sequence_number": 3,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/VHS/VHS-3.jpg",
@@ -402,7 +402,7 @@
         },
         {
           "filename": "VHS-4",
-          "title": "Vibrant Static",
+          "title": "Vibrant static",
           "default_blend_mode": "overlay",
           "sequence_number": 4,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/VHS/VHS-4.jpg",
@@ -411,7 +411,7 @@
         },
         {
           "filename": "VHS-5",
-          "title": "Glitch Canvas",
+          "title": "Glitch canvas",
           "default_blend_mode": "overlay",
           "sequence_number": 5,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/VHS/VHS-5.jpg",
@@ -420,7 +420,7 @@
         },
         {
           "filename": "VHS-6",
-          "title": "Digital Glitch",
+          "title": "Digital glitch",
           "default_blend_mode": "overlay",
           "sequence_number": 6,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/VHS/VHS-6.jpg",
@@ -429,7 +429,7 @@
         },
         {
           "filename": "VHS-7",
-          "title": "Glitch Pattern",
+          "title": "Glitch pattern",
           "default_blend_mode": "overlay",
           "sequence_number": 7,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/VHS/VHS-7.jpg",
@@ -438,7 +438,7 @@
         },
         {
           "filename": "VHS-8",
-          "title": "Glitch Spectrum",
+          "title": "Glitch spectrum",
           "default_blend_mode": "overlay",
           "sequence_number": 8,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/VHS/VHS-8.jpg",
@@ -447,7 +447,7 @@
         },
         {
           "filename": "VHS-9",
-          "title": "Glitch Pattern",
+          "title": "Glitch pattern",
           "default_blend_mode": "overlay",
           "sequence_number": 9,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/VHS/VHS-9.jpg",
@@ -456,7 +456,7 @@
         },
         {
           "filename": "VHS-10",
-          "title": "Colorful Distortion",
+          "title": "Colorful distortion",
           "default_blend_mode": "overlay",
           "sequence_number": 10,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/VHS/VHS-10.jpg",
@@ -470,7 +470,7 @@
       "textures": [
         {
           "filename": "Grit-1",
-          "title": "Grainy Gradient",
+          "title": "Grainy gradient",
           "default_blend_mode": "overlay",
           "sequence_number": 1,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grit/Grit-1.jpg",
@@ -479,7 +479,7 @@
         },
         {
           "filename": "Grit-2",
-          "title": "Charcoal Fabric",
+          "title": "Charcoal fabric",
           "default_blend_mode": "screen",
           "sequence_number": 2,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grit/Grit-2.jpg",
@@ -488,7 +488,7 @@
         },
         {
           "filename": "Grit-3",
-          "title": "Mystic Grain",
+          "title": "Mystic grain",
           "default_blend_mode": "overlay",
           "sequence_number": 3,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grit/Grit-3.jpg",
@@ -497,7 +497,7 @@
         },
         {
           "filename": "Grit-4",
-          "title": "Speckled Canvas",
+          "title": "Speckled canvas",
           "default_blend_mode": "multiply",
           "sequence_number": 4,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grit/Grit-4.jpg",
@@ -506,7 +506,7 @@
         },
         {
           "filename": "Grit-5",
-          "title": "Subtle Grunge",
+          "title": "Subtle grunge",
           "default_blend_mode": "multiply",
           "sequence_number": 5,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grit/Grit-5.jpg",
@@ -515,7 +515,7 @@
         },
         {
           "filename": "Grit-6",
-          "title": "Speckled Surface",
+          "title": "Speckled surface",
           "default_blend_mode": "multiply",
           "sequence_number": 6,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grit/Grit-6.jpg",
@@ -524,7 +524,7 @@
         },
         {
           "filename": "Grit-7",
-          "title": "Static Noise",
+          "title": "Static noise",
           "default_blend_mode": "multiply",
           "sequence_number": 7,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grit/Grit-7.jpg",
@@ -533,7 +533,7 @@
         },
         {
           "filename": "Grit-8",
-          "title": "Scratch Streaks",
+          "title": "Scratch streaks",
           "default_blend_mode": "screen",
           "sequence_number": 8,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grit/Grit-8.jpg",
@@ -542,7 +542,7 @@
         },
         {
           "filename": "Grit-9",
-          "title": "Granular Surface",
+          "title": "Granular surface",
           "default_blend_mode": "screen",
           "sequence_number": 9,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grit/Grit-9.jpg",
@@ -551,7 +551,7 @@
         },
         {
           "filename": "Grit-10",
-          "title": "Vintage Speckle",
+          "title": "Vintage speckle",
           "default_blend_mode": "multiply",
           "sequence_number": 10,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grit/Grit-10.jpg",
@@ -560,7 +560,7 @@
         },
         {
           "filename": "Grit-11",
-          "title": "Grainy Concrete",
+          "title": "Grainy concrete",
           "default_blend_mode": "multiply",
           "sequence_number": 11,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grit/Grit-11.jpg",
@@ -569,7 +569,7 @@
         },
         {
           "filename": "Grit-12",
-          "title": "White Noise",
+          "title": "White noise",
           "default_blend_mode": "multiply",
           "sequence_number": 12,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grit/Grit-12.jpg",
@@ -578,7 +578,7 @@
         },
         {
           "filename": "Grit-13",
-          "title": "Cosmic Dust",
+          "title": "Cosmic dust",
           "default_blend_mode": "screen",
           "sequence_number": 13,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grit/Grit-13.jpg",
@@ -587,7 +587,7 @@
         },
         {
           "filename": "Grit-14",
-          "title": "Granular Gradient",
+          "title": "Granular gradient",
           "default_blend_mode": "overlay",
           "sequence_number": 14,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grit/Grit-14.jpg",
@@ -596,7 +596,7 @@
         },
         {
           "filename": "Grit-15",
-          "title": "Grainy Gradient",
+          "title": "Grainy gradient",
           "default_blend_mode": "overlay",
           "sequence_number": 15,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grit/Grit-15.jpg",
@@ -610,7 +610,7 @@
       "textures": [
         {
           "filename": "Film-Grain-1",
-          "title": "Dark Grain",
+          "title": "Dark grain",
           "default_blend_mode": "screen",
           "sequence_number": 1,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Film%20Grain/Film-Grain-1.jpg",
@@ -619,7 +619,7 @@
         },
         {
           "filename": "Film-Grain-2",
-          "title": "Dark Grain",
+          "title": "Dark grain",
           "default_blend_mode": "screen",
           "sequence_number": 2,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Film%20Grain/Film-Grain-2.jpg",
@@ -628,7 +628,7 @@
         },
         {
           "filename": "Film-Grain-3",
-          "title": "Dark Contrast",
+          "title": "Dark contrast",
           "default_blend_mode": "screen",
           "sequence_number": 3,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Film%20Grain/Film-Grain-3.jpg",
@@ -637,7 +637,7 @@
         },
         {
           "filename": "Film-Grain-4",
-          "title": "Dark Contrast",
+          "title": "Dark contrast",
           "default_blend_mode": "screen",
           "sequence_number": 4,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Film%20Grain/Film-Grain-4.jpg",
@@ -646,7 +646,7 @@
         },
         {
           "filename": "Film-Grain-5",
-          "title": "Abstract Lights",
+          "title": "Abstract lights",
           "default_blend_mode": "screen",
           "sequence_number": 5,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Film%20Grain/Film-Grain-5.jpg",
@@ -655,7 +655,7 @@
         },
         {
           "filename": "Film-Grain-6",
-          "title": "Dark Grain",
+          "title": "Dark grain",
           "default_blend_mode": "screen",
           "sequence_number": 6,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Film%20Grain/Film-Grain-6.jpg",
@@ -664,7 +664,7 @@
         },
         {
           "filename": "Film-Grain-7",
-          "title": "Worn Paper",
+          "title": "Worn paper",
           "default_blend_mode": "multiply",
           "sequence_number": 7,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Film%20Grain/Film-Grain-7.jpg",
@@ -673,7 +673,7 @@
         },
         {
           "filename": "Film-Grain-8",
-          "title": "Subtle Grain",
+          "title": "Subtle grain",
           "default_blend_mode": "multiply",
           "sequence_number": 8,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Film%20Grain/Film-Grain-8.jpg",
@@ -682,7 +682,7 @@
         },
         {
           "filename": "Film-Grain-9",
-          "title": "Gradient Fade",
+          "title": "Gradient fade",
           "default_blend_mode": "multiply",
           "sequence_number": 9,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Film%20Grain/Film-Grain-9.jpg",
@@ -691,7 +691,7 @@
         },
         {
           "filename": "Film-Grain-10",
-          "title": "Gradient Edge",
+          "title": "Gradient edge",
           "default_blend_mode": "multiply",
           "sequence_number": 10,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Film%20Grain/Film-Grain-10.jpg",
@@ -705,7 +705,7 @@
       "textures": [
         {
           "filename": "Light-1",
-          "title": "Rainbow Blur",
+          "title": "Rainbow blur",
           "default_blend_mode": "screen",
           "sequence_number": 1,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Light/Light-1.jpg",
@@ -714,7 +714,7 @@
         },
         {
           "filename": "Light-2",
-          "title": "Ethereal Glow",
+          "title": "Ethereal glow",
           "default_blend_mode": "screen",
           "sequence_number": 2,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Light/Light-2.jpg",
@@ -723,7 +723,7 @@
         },
         {
           "filename": "Light-3",
-          "title": "Fiery Glow",
+          "title": "Fiery glow",
           "default_blend_mode": "screen",
           "sequence_number": 3,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Light/Light-3.jpg",
@@ -732,7 +732,7 @@
         },
         {
           "filename": "Light-4",
-          "title": "Iridescent Shadows",
+          "title": "Iridescent shadows",
           "default_blend_mode": "screen",
           "sequence_number": 4,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Light/Light-4.jpg",
@@ -741,7 +741,7 @@
         },
         {
           "filename": "Light-5",
-          "title": "Electric Vortex",
+          "title": "Electric vortex",
           "default_blend_mode": "screen",
           "sequence_number": 5,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Light/Light-5.jpg",
@@ -750,7 +750,7 @@
         },
         {
           "filename": "Light-6",
-          "title": "Mystical Glimmers",
+          "title": "Mystical glimmers",
           "default_blend_mode": "screen",
           "sequence_number": 6,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Light/Light-6.jpg",
@@ -759,7 +759,7 @@
         },
         {
           "filename": "Light-7",
-          "title": "Luminous Fade",
+          "title": "Luminous fade",
           "default_blend_mode": "screen",
           "sequence_number": 7,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Light/Light-7.jpg",
@@ -768,7 +768,7 @@
         },
         {
           "filename": "Light-8",
-          "title": "Color Gradient",
+          "title": "Color gradient",
           "default_blend_mode": "screen",
           "sequence_number": 8,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Light/Light-8.jpg",
@@ -777,7 +777,7 @@
         },
         {
           "filename": "Light-9",
-          "title": "Vibrant Gradient",
+          "title": "Vibrant gradient",
           "default_blend_mode": "screen",
           "sequence_number": 9,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Light/Light-9.jpg",
@@ -786,7 +786,7 @@
         },
         {
           "filename": "Light-10",
-          "title": "Prismatic Streaks",
+          "title": "Prismatic streaks",
           "default_blend_mode": "screen",
           "sequence_number": 10,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Light/Light-10.jpg",
@@ -795,7 +795,7 @@
         },
         {
           "filename": "Light-11",
-          "title": "Glowing Streaks",
+          "title": "Glowing streaks",
           "default_blend_mode": "screen",
           "sequence_number": 11,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Light/Light-11.jpg",
@@ -804,7 +804,7 @@
         },
         {
           "filename": "Light-12",
-          "title": "Fiery Gradient",
+          "title": "Fiery gradient",
           "default_blend_mode": "screen",
           "sequence_number": 12,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Light/Light-12.jpg",
@@ -813,7 +813,7 @@
         },
         {
           "filename": "Light-13",
-          "title": "Fiery Glow",
+          "title": "Fiery glow",
           "default_blend_mode": "screen",
           "sequence_number": 13,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Light/Light-13.jpg",
@@ -822,7 +822,7 @@
         },
         {
           "filename": "Light-14",
-          "title": "Luminous Gradient",
+          "title": "Luminous gradient",
           "default_blend_mode": "screen",
           "sequence_number": 14,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Light/Light-14.jpg",
@@ -831,7 +831,7 @@
         },
         {
           "filename": "Light-15",
-          "title": "Vibrant Spectrum",
+          "title": "Vibrant spectrum",
           "default_blend_mode": "screen",
           "sequence_number": 15,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Light/Light-15.jpg",
@@ -840,7 +840,7 @@
         },
         {
           "filename": "Light-16",
-          "title": "Prismatic Rays",
+          "title": "Prismatic rays",
           "default_blend_mode": "screen",
           "sequence_number": 16,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Light/Light-16.jpg",
@@ -849,7 +849,7 @@
         },
         {
           "filename": "Light-17",
-          "title": "Prismatic Glow",
+          "title": "Prismatic glow",
           "default_blend_mode": "screen",
           "sequence_number": 17,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Light/Light-17.jpg",
@@ -863,7 +863,7 @@
       "textures": [
         {
           "filename": "Fabric-1",
-          "title": "Linen Fabric",
+          "title": "Linen fabric",
           "default_blend_mode": "multiply",
           "sequence_number": 1,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Fabric/Fabric-1.jpg",
@@ -872,7 +872,7 @@
         },
         {
           "filename": "Fabric-2",
-          "title": "Dark Fleece",
+          "title": "Dark fleece",
           "default_blend_mode": "screen",
           "sequence_number": 2,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Fabric/Fabric-2.jpg",
@@ -881,7 +881,7 @@
         },
         {
           "filename": "Fabric-3",
-          "title": "Soft Fabric",
+          "title": "Soft fabric",
           "default_blend_mode": "multiply",
           "sequence_number": 3,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Fabric/Fabric-3.jpg",
@@ -890,7 +890,7 @@
         },
         {
           "filename": "Fabric-4",
-          "title": "Subtle Linen",
+          "title": "Subtle linen",
           "default_blend_mode": "multiply",
           "sequence_number": 4,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Fabric/Fabric-4.jpg",
@@ -899,7 +899,7 @@
         },
         {
           "filename": "Fabric-5",
-          "title": "Linen Fabric",
+          "title": "Linen fabric",
           "default_blend_mode": "multiply",
           "sequence_number": 5,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Fabric/Fabric-5.jpg",
@@ -908,7 +908,7 @@
         },
         {
           "filename": "Fabric-6",
-          "title": "Linen Surface",
+          "title": "Linen surface",
           "default_blend_mode": "multiply",
           "sequence_number": 6,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Fabric/Fabric-6.jpg",
@@ -917,7 +917,7 @@
         },
         {
           "filename": "Fabric-7",
-          "title": "Soft Ripples",
+          "title": "Soft ripples",
           "default_blend_mode": "multiply",
           "sequence_number": 7,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Fabric/Fabric-7.jpg",
@@ -926,7 +926,7 @@
         },
         {
           "filename": "Fabric-8",
-          "title": "Soft Waves",
+          "title": "Soft waves",
           "default_blend_mode": "multiply",
           "sequence_number": 8,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Fabric/Fabric-8.jpg",
@@ -935,7 +935,7 @@
         },
         {
           "filename": "Fabric-9",
-          "title": "Linen Fabric",
+          "title": "Linen fabric",
           "default_blend_mode": "multiply",
           "sequence_number": 9,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Fabric/Fabric-9.jpg",
@@ -944,7 +944,7 @@
         },
         {
           "filename": "Fabric-10",
-          "title": "Linen Canvas",
+          "title": "Linen canvas",
           "default_blend_mode": "multiply",
           "sequence_number": 10,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Fabric/Fabric-10.jpg",
@@ -953,7 +953,7 @@
         },
         {
           "filename": "Fabric-11",
-          "title": "Linen Texture",
+          "title": "Linen texture",
           "default_blend_mode": "multiply",
           "sequence_number": 11,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Fabric/Fabric-11.jpg",
@@ -962,7 +962,7 @@
         },
         {
           "filename": "Fabric-12",
-          "title": "Textured Linen",
+          "title": "Textured linen",
           "default_blend_mode": "multiply",
           "sequence_number": 12,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Fabric/Fabric-12.jpg",
@@ -971,7 +971,7 @@
         },
         {
           "filename": "Fabric-13",
-          "title": "Smooth Fabric",
+          "title": "Smooth fabric",
           "default_blend_mode": "multiply",
           "sequence_number": 13,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Fabric/Fabric-13.jpg",
@@ -980,7 +980,7 @@
         },
         {
           "filename": "Fabric-14",
-          "title": "Subtle Waves",
+          "title": "Subtle waves",
           "default_blend_mode": "multiply",
           "sequence_number": 14,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Fabric/Fabric-14.jpg",
@@ -989,7 +989,7 @@
         },
         {
           "filename": "Fabric-15",
-          "title": "Gray Fabric",
+          "title": "Gray fabric",
           "default_blend_mode": "multiply",
           "sequence_number": 15,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Fabric/Fabric-15.jpg",
@@ -1003,7 +1003,7 @@
       "textures": [
         {
           "filename": "Grunge-1",
-          "title": "Grunge Surface",
+          "title": "Grunge surface",
           "default_blend_mode": "screen",
           "sequence_number": 1,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grunge/Grunge-1.jpg",
@@ -1012,7 +1012,7 @@
         },
         {
           "filename": "Grunge-2",
-          "title": "Aged Film",
+          "title": "Aged film",
           "default_blend_mode": "screen",
           "sequence_number": 2,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grunge/Grunge-2.jpg",
@@ -1021,7 +1021,7 @@
         },
         {
           "filename": "Grunge-3",
-          "title": "Chaotic Scratches",
+          "title": "Chaotic scratches",
           "default_blend_mode": "screen",
           "sequence_number": 3,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grunge/Grunge-3.jpg",
@@ -1030,7 +1030,7 @@
         },
         {
           "filename": "Grunge-4",
-          "title": "Frosted Canvas",
+          "title": "Frosted canvas",
           "default_blend_mode": "overlay",
           "sequence_number": 4,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grunge/Grunge-4.jpg",
@@ -1039,7 +1039,7 @@
         },
         {
           "filename": "Grunge-5",
-          "title": "Peeling Paint",
+          "title": "Peeling paint",
           "default_blend_mode": "multiply",
           "sequence_number": 5,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grunge/Grunge-5.jpg",
@@ -1048,7 +1048,7 @@
         },
         {
           "filename": "Grunge-6",
-          "title": "Granite Surface",
+          "title": "Granite surface",
           "default_blend_mode": "overlay",
           "sequence_number": 6,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grunge/Grunge-6.jpg",
@@ -1057,7 +1057,7 @@
         },
         {
           "filename": "Grunge-7",
-          "title": "Woven Linen",
+          "title": "Woven linen",
           "default_blend_mode": "overlay",
           "sequence_number": 7,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grunge/Grunge-7.jpg",
@@ -1066,7 +1066,7 @@
         },
         {
           "filename": "Grunge-8",
-          "title": "Mesh Pattern",
+          "title": "Mesh pattern",
           "default_blend_mode": "overlay",
           "sequence_number": 8,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grunge/Grunge-8.jpg",
@@ -1075,7 +1075,7 @@
         },
         {
           "filename": "Grunge-9",
-          "title": "Charcoal Canvas",
+          "title": "Charcoal canvas",
           "default_blend_mode": "screen",
           "sequence_number": 9,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grunge/Grunge-9.jpg",
@@ -1084,7 +1084,7 @@
         },
         {
           "filename": "Grunge-10",
-          "title": "Speckled White",
+          "title": "Speckled white",
           "default_blend_mode": "multiply",
           "sequence_number": 10,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grunge/Grunge-10.jpg",
@@ -1093,7 +1093,7 @@
         },
         {
           "filename": "Grunge-11",
-          "title": "Cosmic Gleam",
+          "title": "Cosmic gleam",
           "default_blend_mode": "screen",
           "sequence_number": 11,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grunge/Grunge-11.jpg",
@@ -1102,7 +1102,7 @@
         },
         {
           "filename": "Grunge-12",
-          "title": "Vintage Distress",
+          "title": "Vintage distress",
           "default_blend_mode": "screen",
           "sequence_number": 12,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grunge/Grunge-12.jpg",
@@ -1111,7 +1111,7 @@
         },
         {
           "filename": "Grunge-13",
-          "title": "Weathered Canvas",
+          "title": "Weathered canvas",
           "default_blend_mode": "multiply",
           "sequence_number": 13,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grunge/Grunge-13.jpg",
@@ -1120,7 +1120,7 @@
         },
         {
           "filename": "Grunge-14",
-          "title": "Dark Canvas",
+          "title": "Dark canvas",
           "default_blend_mode": "screen",
           "sequence_number": 14,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grunge/Grunge-14.jpg",
@@ -1129,7 +1129,7 @@
         },
         {
           "filename": "Grunge-15",
-          "title": "Grainy Shadow",
+          "title": "Grainy shadow",
           "default_blend_mode": "screen",
           "sequence_number": 15,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grunge/Grunge-15.jpg",
@@ -1138,7 +1138,7 @@
         },
         {
           "filename": "Grunge-16",
-          "title": "Dark Striations",
+          "title": "Dark striations",
           "default_blend_mode": "screen",
           "sequence_number": 16,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grunge/Grunge-16.jpg",
@@ -1147,7 +1147,7 @@
         },
         {
           "filename": "Grunge-17",
-          "title": "Metallic Gradient",
+          "title": "Metallic gradient",
           "default_blend_mode": "screen",
           "sequence_number": 17,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grunge/Grunge-17.jpg",
@@ -1156,7 +1156,7 @@
         },
         {
           "filename": "Grunge-18",
-          "title": "Subtle Gradient",
+          "title": "Subtle gradient",
           "default_blend_mode": "screen",
           "sequence_number": 18,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grunge/Grunge-18.jpg",
@@ -1165,7 +1165,7 @@
         },
         {
           "filename": "Grunge-19",
-          "title": "Shadowed Stripes",
+          "title": "Shadowed stripes",
           "default_blend_mode": "screen",
           "sequence_number": 19,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grunge/Grunge-19.jpg",
@@ -1174,7 +1174,7 @@
         },
         {
           "filename": "Grunge-20",
-          "title": "Mossy Swirls",
+          "title": "Mossy swirls",
           "default_blend_mode": "overlay",
           "sequence_number": 20,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grunge/Grunge-20.jpg",
@@ -1183,7 +1183,7 @@
         },
         {
           "filename": "Grunge-21",
-          "title": "Starry Night",
+          "title": "Starry night",
           "default_blend_mode": "screen",
           "sequence_number": 21,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grunge/Grunge-21.jpg",
@@ -1192,7 +1192,7 @@
         },
         {
           "filename": "Grunge-22",
-          "title": "Weathered Canvas",
+          "title": "Weathered canvas",
           "default_blend_mode": "screen",
           "sequence_number": 22,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grunge/Grunge-22.jpg",
@@ -1201,7 +1201,7 @@
         },
         {
           "filename": "Grunge-23",
-          "title": "Icy Haze",
+          "title": "Icy haze",
           "default_blend_mode": "multiply",
           "sequence_number": 23,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grunge/Grunge-23.jpg",
@@ -1210,7 +1210,7 @@
         },
         {
           "filename": "Grunge-24",
-          "title": "Rustic Canvas",
+          "title": "Rustic canvas",
           "default_blend_mode": "multiply",
           "sequence_number": 24,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grunge/Grunge-24.jpg",
@@ -1219,7 +1219,7 @@
         },
         {
           "filename": "Grunge-25",
-          "title": "Distressed Metal",
+          "title": "Distressed metal",
           "default_blend_mode": "screen",
           "sequence_number": 25,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grunge/Grunge-25.jpg",
