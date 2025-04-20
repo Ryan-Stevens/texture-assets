@@ -1030,12 +1030,12 @@
         },
         {
           "filename": "Grunge-4",
-          "title": "Frosted canvas",
+          "title": "Grungy halftone",
           "default_blend_mode": "overlay",
           "sequence_number": 4,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grunge/Grunge-4.jpg",
           "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Grunge/Grunge-4.jpg",
-          "description": "Textured gray surface"
+          "description": "Distressed gray halftone dots"
         },
         {
           "filename": "Grunge-5",
@@ -1048,12 +1048,12 @@
         },
         {
           "filename": "Grunge-6",
-          "title": "Granite surface",
+          "title": "Halftone dots",
           "default_blend_mode": "overlay",
           "sequence_number": 6,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grunge/Grunge-6.jpg",
           "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Grunge/Grunge-6.jpg",
-          "description": "Gray textured pattern"
+          "description": "Gray halftone dots"
         },
         {
           "filename": "Grunge-7",
