@@ -358,15 +358,6 @@
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paint/Paint-14.jpg",
           "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Paint/Paint-14.jpg",
           "description": "Textured white strokes"
-        },
-        {
-          "filename": "Paint-15",
-          "title": "Brush strokes",
-          "default_blend_mode": "multiply",
-          "sequence_number": 15,
-          "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paint/Paint-15.jpg",
-          "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Paint/Paint-15.jpg",
-          "description": "Textured white paint"
         }
       ]
     },
