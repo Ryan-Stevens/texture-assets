@@ -10,7 +10,7 @@
           "sequence_number": 1,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paper/Paper-1.jpg",
           "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Paper/Paper-1.jpg",
-          "description": "Faded creased surface"
+          "description": "Worn crinkled feel"
         },
         {
           "filename": "Paper-2",
@@ -64,7 +64,7 @@
           "sequence_number": 7,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paper/Paper-7.jpg",
           "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Paper/Paper-7.jpg",
-          "description": "Subtle creases visible"
+          "description": "Visible creases"
         },
         {
           "filename": "Paper-8",
@@ -100,7 +100,7 @@
           "sequence_number": 11,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paper/Paper-11.jpg",
           "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Paper/Paper-11.jpg",
-          "description": "Fine speckled texture"
+          "description": "Speckled fine"
         },
         {
           "filename": "Paper-12",
@@ -109,7 +109,7 @@
           "sequence_number": 12,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paper/Paper-12.jpg",
           "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Paper/Paper-12.jpg",
-          "description": "White, wrinkled surface"
+          "description": "White, wrinkled"
         },
         {
           "filename": "Paper-13",
@@ -136,7 +136,7 @@
           "sequence_number": 15,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paper/Paper-15.jpg",
           "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Paper/Paper-15.jpg",
-          "description": "Wrinkled white surface"
+          "description": "White, wrinkled surf"
         },
         {
           "filename": "Paper-16",
@@ -145,7 +145,7 @@
           "sequence_number": 16,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paper/Paper-16.jpg",
           "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Paper/Paper-16.jpg",
-          "description": "Subtle creased texture"
+          "description": "Creased subtle"
         },
         {
           "filename": "Paper-17",
@@ -154,7 +154,7 @@
           "sequence_number": 17,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paper/Paper-17.jpg",
           "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Paper/Paper-17.jpg",
-          "description": "White, textured folds"
+          "description": "Textured white folds"
         },
         {
           "filename": "Paper-18",
@@ -172,7 +172,7 @@
           "sequence_number": 19,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paper/Paper-19.jpg",
           "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Paper/Paper-19.jpg",
-          "description": "Wrinkled white surface"
+          "description": "White wrinkles"
         },
         {
           "filename": "Paper-20",
@@ -181,7 +181,7 @@
           "sequence_number": 20,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paper/Paper-20.jpg",
           "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Paper/Paper-20.jpg",
-          "description": "Pale textured surface"
+          "description": "Pale texture"
         },
         {
           "filename": "Paper-21",
@@ -190,7 +190,7 @@
           "sequence_number": 21,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paper/Paper-21.jpg",
           "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Paper/Paper-21.jpg",
-          "description": "Minimal white texture"
+          "description": "Minimal white"
         },
         {
           "filename": "Paper-22",
@@ -199,7 +199,7 @@
           "sequence_number": 22,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paper/Paper-22.jpg",
           "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Paper/Paper-22.jpg",
-          "description": "Soft textured surface"
+          "description": "Soft surface"
         },
         {
           "filename": "Paper-23",
@@ -208,7 +208,7 @@
           "sequence_number": 23,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paper/Paper-23.jpg",
           "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Paper/Paper-23.jpg",
-          "description": "White fibrous surface"
+          "description": "Fibrous white"
         },
         {
           "filename": "Paper-24",
@@ -226,7 +226,7 @@
           "sequence_number": 25,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paper/Paper-25.jpg",
           "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Paper/Paper-25.jpg",
-          "description": "Subtle textured surface"
+          "description": "Soft texture"
         }
       ]
     },
@@ -249,7 +249,7 @@
           "sequence_number": 2,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paint/Paint-2.jpg",
           "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Paint/Paint-2.jpg",
-          "description": "Grainy, abstract pattern"
+          "description": "Grainy abstract"
         },
         {
           "filename": "Paint-3",
@@ -267,7 +267,7 @@
           "sequence_number": 4,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paint/Paint-4.jpg",
           "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Paint/Paint-4.jpg",
-          "description": "Layered greyscale pattern"
+          "description": "Layered grey pattern"
         },
         {
           "filename": "Paint-5",
@@ -276,7 +276,7 @@
           "sequence_number": 5,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paint/Paint-5.jpg",
           "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Paint/Paint-5.jpg",
-          "description": "Monochrome brush strokes"
+          "description": "Mono brush strokes"
         },
         {
           "filename": "Paint-6",
@@ -285,7 +285,7 @@
           "sequence_number": 6,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paint/Paint-6.jpg",
           "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Paint/Paint-6.jpg",
-          "description": "Smooth plaster strokes"
+          "description": "Smooth plaster"
         },
         {
           "filename": "Paint-7",
@@ -339,7 +339,7 @@
           "sequence_number": 12,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paint/Paint-12.jpg",
           "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Paint/Paint-12.jpg",
-          "description": "Vibrant paint droplets"
+          "description": "Bright paint drops"
         },
         {
           "filename": "Paint-13",
@@ -348,7 +348,7 @@
           "sequence_number": 13,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paint/Paint-13.jpg",
           "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Paint/Paint-13.jpg",
-          "description": "Vibrant chaotic lines"
+          "description": "Chaotic lines"
         },
         {
           "filename": "Paint-14",
@@ -357,7 +357,7 @@
           "sequence_number": 14,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Paint/Paint-14.jpg",
           "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Paint/Paint-14.jpg",
-          "description": "Textured white strokes"
+          "description": "White strokes"
         }
       ]
     },
@@ -380,7 +380,7 @@
           "sequence_number": 2,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/VHS/VHS-2.jpg",
           "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/VHS/VHS-2.jpg",
-          "description": "Colorful digital distortion"
+          "description": "Vivid digital glitch"
         },
         {
           "filename": "VHS-3",
@@ -389,7 +389,7 @@
           "sequence_number": 3,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/VHS/VHS-3.jpg",
           "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/VHS/VHS-3.jpg",
-          "description": "Vibrant glitch effect"
+          "description": "Glitchy vibrance"
         },
         {
           "filename": "VHS-4",
@@ -398,7 +398,7 @@
           "sequence_number": 4,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/VHS/VHS-4.jpg",
           "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/VHS/VHS-4.jpg",
-          "description": "Colorful digital patterns"
+          "description": "Vivid digital motifs"
         },
         {
           "filename": "VHS-5",
@@ -407,7 +407,7 @@
           "sequence_number": 5,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/VHS/VHS-5.jpg",
           "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/VHS/VHS-5.jpg",
-          "description": "Vibrant digital distortion"
+          "description": "Vivid digi-glitch"
         },
         {
           "filename": "VHS-6",
@@ -416,7 +416,7 @@
           "sequence_number": 6,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/VHS/VHS-6.jpg",
           "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/VHS/VHS-6.jpg",
-          "description": "Vibrant distorted lines"
+          "description": "Vivid warped lines"
         },
         {
           "filename": "VHS-7",
@@ -425,7 +425,7 @@
           "sequence_number": 7,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/VHS/VHS-7.jpg",
           "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/VHS/VHS-7.jpg",
-          "description": "Colorful digital distortion"
+          "description": "Colorful glitch"
         },
         {
           "filename": "VHS-8",
@@ -434,7 +434,7 @@
           "sequence_number": 8,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/VHS/VHS-8.jpg",
           "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/VHS/VHS-8.jpg",
-          "description": "Vibrant digital interference"
+          "description": "Vivid glitch"
         },
         {
           "filename": "VHS-9",
@@ -443,7 +443,7 @@
           "sequence_number": 9,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/VHS/VHS-9.jpg",
           "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/VHS/VHS-9.jpg",
-          "description": "Colorful distorted pixels"
+          "description": "Twisted color pixels"
         },
         {
           "filename": "VHS-10",
@@ -452,7 +452,7 @@
           "sequence_number": 10,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/VHS/VHS-10.jpg",
           "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/VHS/VHS-10.jpg",
-          "description": "Glitchy pixelated lines"
+          "description": "Glitchy pixels"
         }
       ]
     },
@@ -466,7 +466,7 @@
           "sequence_number": 1,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grit/Grit-1.jpg",
           "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Grit/Grit-1.jpg",
-          "description": "Monochrome noise pattern"
+          "description": "Mono noise pattern"
         },
         {
           "filename": "Grit-2",
@@ -484,7 +484,7 @@
           "sequence_number": 3,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grit/Grit-3.jpg",
           "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Grit/Grit-3.jpg",
-          "description": "Abstract monochrome texture"
+          "description": "Mono abstract textur"
         },
         {
           "filename": "Grit-4",
@@ -511,7 +511,7 @@
           "sequence_number": 6,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grit/Grit-6.jpg",
           "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Grit/Grit-6.jpg",
-          "description": "Fine granular pattern"
+          "description": "Fine granules"
         },
         {
           "filename": "Grit-7",
@@ -520,7 +520,7 @@
           "sequence_number": 7,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grit/Grit-7.jpg",
           "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Grit/Grit-7.jpg",
-          "description": "White and gray specks"
+          "description": "White/gray specks"
         },
         {
           "filename": "Grit-8",
@@ -547,7 +547,7 @@
           "sequence_number": 10,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grit/Grit-10.jpg",
           "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Grit/Grit-10.jpg",
-          "description": "Faded, speckled pattern"
+          "description": "Aged speckle"
         },
         {
           "filename": "Grit-11",
@@ -556,7 +556,7 @@
           "sequence_number": 11,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grit/Grit-11.jpg",
           "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Grit/Grit-11.jpg",
-          "description": "Rough speckled surface"
+          "description": "Speckled roughness"
         },
         {
           "filename": "Grit-12",
@@ -565,7 +565,7 @@
           "sequence_number": 12,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grit/Grit-12.jpg",
           "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Grit/Grit-12.jpg",
-          "description": "Random black speckles"
+          "description": "Black speckles"
         },
         {
           "filename": "Grit-13",
@@ -574,7 +574,7 @@
           "sequence_number": 13,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grit/Grit-13.jpg",
           "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Grit/Grit-13.jpg",
-          "description": "Dark, speckled pattern"
+          "description": "Dark, speckled"
         },
         {
           "filename": "Grit-14",
@@ -583,7 +583,7 @@
           "sequence_number": 14,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grit/Grit-14.jpg",
           "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Grit/Grit-14.jpg",
-          "description": "Monochrome speckled transition"
+          "description": "Mono speckled shift"
         },
         {
           "filename": "Grit-15",
@@ -592,7 +592,7 @@
           "sequence_number": 15,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grit/Grit-15.jpg",
           "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Grit/Grit-15.jpg",
-          "description": "Monochrome speckled pattern"
+          "description": "Mono speckles"
         }
       ]
     },
@@ -606,7 +606,7 @@
           "sequence_number": 1,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Film%20Grain/Film-Grain-1.jpg",
           "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Film%20Grain/Film-Grain-1.jpg",
-          "description": "Subtle speckled surface"
+          "description": "Speckled surface"
         },
         {
           "filename": "Film-Grain-2",
@@ -615,7 +615,7 @@
           "sequence_number": 2,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Film%20Grain/Film-Grain-2.jpg",
           "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Film%20Grain/Film-Grain-2.jpg",
-          "description": "Subtle textured specks"
+          "description": "Speckled texture"
         },
         {
           "filename": "Film-Grain-3",
@@ -633,7 +633,7 @@
           "sequence_number": 4,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Film%20Grain/Film-Grain-4.jpg",
           "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Film%20Grain/Film-Grain-4.jpg",
-          "description": "Textured black gradient"
+          "description": "Black gradient"
         },
         {
           "filename": "Film-Grain-5",
@@ -651,7 +651,7 @@
           "sequence_number": 6,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Film%20Grain/Film-Grain-6.jpg",
           "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Film%20Grain/Film-Grain-6.jpg",
-          "description": "Subtle textured noise"
+          "description": "Soft, textured noise"
         },
         {
           "filename": "Film-Grain-7",
@@ -660,7 +660,7 @@
           "sequence_number": 7,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Film%20Grain/Film-Grain-7.jpg",
           "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Film%20Grain/Film-Grain-7.jpg",
-          "description": "Faded, subtle texture"
+          "description": "Faded, subtle"
         },
         {
           "filename": "Film-Grain-8",
@@ -669,7 +669,7 @@
           "sequence_number": 8,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Film%20Grain/Film-Grain-8.jpg",
           "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Film%20Grain/Film-Grain-8.jpg",
-          "description": "Soft textured pattern"
+          "description": "Soft pattern"
         },
         {
           "filename": "Film-Grain-9",
@@ -710,7 +710,7 @@
           "sequence_number": 2,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Light/Light-2.jpg",
           "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Light/Light-2.jpg",
-          "description": "Abstract blurred lights"
+          "description": "Blurry lights"
         },
         {
           "filename": "Light-3",
@@ -719,7 +719,7 @@
           "sequence_number": 3,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Light/Light-3.jpg",
           "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Light/Light-3.jpg",
-          "description": "Luminous edge gradient"
+          "description": "Glowing edge fade"
         },
         {
           "filename": "Light-4",
@@ -728,7 +728,7 @@
           "sequence_number": 4,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Light/Light-4.jpg",
           "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Light/Light-4.jpg",
-          "description": "Dark, colorful reflections"
+          "description": "Dark, vivid gleams"
         },
         {
           "filename": "Light-5",
@@ -737,7 +737,7 @@
           "sequence_number": 5,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Light/Light-5.jpg",
           "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Light/Light-5.jpg",
-          "description": "Luminous swirling ring"
+          "description": "Glowing swirl ring"
         },
         {
           "filename": "Light-6",
@@ -746,7 +746,7 @@
           "sequence_number": 6,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Light/Light-6.jpg",
           "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Light/Light-6.jpg",
-          "description": "Shimmering light play"
+          "description": "Light shimmer"
         },
         {
           "filename": "Light-7",
@@ -755,7 +755,7 @@
           "sequence_number": 7,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Light/Light-7.jpg",
           "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Light/Light-7.jpg",
-          "description": "Vibrant gradient stripes"
+          "description": "Bright stripe gradie"
         },
         {
           "filename": "Light-8",
@@ -782,7 +782,7 @@
           "sequence_number": 10,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Light/Light-10.jpg",
           "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Light/Light-10.jpg",
-          "description": "Colorful light reflections"
+          "description": "Vivid light glimmers"
         },
         {
           "filename": "Light-11",
@@ -809,7 +809,7 @@
           "sequence_number": 13,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Light/Light-13.jpg",
           "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Light/Light-13.jpg",
-          "description": "Warm, abstract gradient"
+          "description": "Warm abstract fade"
         },
         {
           "filename": "Light-14",
@@ -827,7 +827,7 @@
           "sequence_number": 15,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Light/Light-15.jpg",
           "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Light/Light-15.jpg",
-          "description": "Colorful light gradients"
+          "description": "Colorful gradients"
         },
         {
           "filename": "Light-16",
@@ -836,7 +836,7 @@
           "sequence_number": 16,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Light/Light-16.jpg",
           "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Light/Light-16.jpg",
-          "description": "Colorful light streaks"
+          "description": "Vivid light trails"
         },
         {
           "filename": "Light-17",
@@ -845,7 +845,7 @@
           "sequence_number": 17,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Light/Light-17.jpg",
           "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Light/Light-17.jpg",
-          "description": "Colorful light spectrum"
+          "description": "Colorful spectrum"
         }
       ]
     },
@@ -868,7 +868,7 @@
           "sequence_number": 2,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Fabric/Fabric-2.jpg",
           "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Fabric/Fabric-2.jpg",
-          "description": "Soft textured surface"
+          "description": "Soft surface"
         },
         {
           "filename": "Fabric-3",
@@ -904,7 +904,7 @@
           "sequence_number": 6,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Fabric/Fabric-6.jpg",
           "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Fabric/Fabric-6.jpg",
-          "description": "White crosshatch lines"
+          "description": "White crosshatch"
         },
         {
           "filename": "Fabric-7",
@@ -999,7 +999,7 @@
           "sequence_number": 1,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grunge/Grunge-1.jpg",
           "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Grunge/Grunge-1.jpg",
-          "description": "Dark, cracked texture"
+          "description": "Dark, cracked"
         },
         {
           "filename": "Grunge-2",
@@ -1008,7 +1008,7 @@
           "sequence_number": 2,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grunge/Grunge-2.jpg",
           "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Grunge/Grunge-2.jpg",
-          "description": "Dark, textured scratches"
+          "description": "Dark scratch marks"
         },
         {
           "filename": "Grunge-3",
@@ -1026,7 +1026,7 @@
           "sequence_number": 4,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grunge/Grunge-4.jpg",
           "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Grunge/Grunge-4.jpg",
-          "description": "Distressed halftone dots"
+          "description": "Distressed dots"
         },
         {
           "filename": "Grunge-5",
@@ -1035,7 +1035,7 @@
           "sequence_number": 5,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grunge/Grunge-5.jpg",
           "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Grunge/Grunge-5.jpg",
-          "description": "Cracked, worn surface"
+          "description": "Cracked & worn"
         },
         {
           "filename": "Grunge-6",
@@ -1080,7 +1080,7 @@
           "sequence_number": 10,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grunge/Grunge-10.jpg",
           "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Grunge/Grunge-10.jpg",
-          "description": "Subtle grainy texture"
+          "description": "Grainy texture"
         },
         {
           "filename": "Grunge-11",
@@ -1089,7 +1089,7 @@
           "sequence_number": 11,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grunge/Grunge-11.jpg",
           "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Grunge/Grunge-11.jpg",
-          "description": "Dark with light streaks"
+          "description": "Dark, light streaks"
         },
         {
           "filename": "Grunge-12",
@@ -1116,7 +1116,7 @@
           "sequence_number": 14,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grunge/Grunge-14.jpg",
           "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Grunge/Grunge-14.jpg",
-          "description": "Muted linear patterns"
+          "description": "Soft line patterns"
         },
         {
           "filename": "Grunge-15",
@@ -1125,7 +1125,7 @@
           "sequence_number": 15,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grunge/Grunge-15.jpg",
           "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Grunge/Grunge-15.jpg",
-          "description": "Dark, speckled surface"
+          "description": "Dark, speckled"
         },
         {
           "filename": "Grunge-16",
@@ -1134,7 +1134,7 @@
           "sequence_number": 16,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grunge/Grunge-16.jpg",
           "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Grunge/Grunge-16.jpg",
-          "description": "Subtle linear gradients"
+          "description": "Gentle line fades"
         },
         {
           "filename": "Grunge-17",
@@ -1143,7 +1143,7 @@
           "sequence_number": 17,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grunge/Grunge-17.jpg",
           "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Grunge/Grunge-17.jpg",
-          "description": "Sleek, reflective bands"
+          "description": "Glossy, shiny lines"
         },
         {
           "filename": "Grunge-18",
@@ -1152,7 +1152,7 @@
           "sequence_number": 18,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grunge/Grunge-18.jpg",
           "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Grunge/Grunge-18.jpg",
-          "description": "Dark, horizontal layers"
+          "description": "Dark, layered lines"
         },
         {
           "filename": "Grunge-19",
@@ -1161,7 +1161,7 @@
           "sequence_number": 19,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grunge/Grunge-19.jpg",
           "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Grunge/Grunge-19.jpg",
-          "description": "Gradient horizontal lines"
+          "description": "Horizontal gradient"
         },
         {
           "filename": "Grunge-20",
@@ -1179,7 +1179,7 @@
           "sequence_number": 21,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grunge/Grunge-21.jpg",
           "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Grunge/Grunge-21.jpg",
-          "description": "Dark speckled texture"
+          "description": "Dark speckled"
         },
         {
           "filename": "Grunge-22",
@@ -1188,7 +1188,7 @@
           "sequence_number": 22,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grunge/Grunge-22.jpg",
           "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Grunge/Grunge-22.jpg",
-          "description": "Rugged circular pattern"
+          "description": "Rugged circles"
         },
         {
           "filename": "Grunge-23",
@@ -1197,7 +1197,7 @@
           "sequence_number": 23,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grunge/Grunge-23.jpg",
           "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Grunge/Grunge-23.jpg",
-          "description": "Frosty muted textures"
+          "description": "Frosty muted"
         },
         {
           "filename": "Grunge-24",
@@ -1206,7 +1206,7 @@
           "sequence_number": 24,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grunge/Grunge-24.jpg",
           "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Grunge/Grunge-24.jpg",
-          "description": "Aged, textured surface"
+          "description": "Weathered surface"
         },
         {
           "filename": "Grunge-25",
@@ -1215,7 +1215,7 @@
           "sequence_number": 25,
           "file_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/textures/Grunge/Grunge-25.jpg",
           "thumbnail_path": "https://cdn.jsdelivr.net/gh/Ryan-Stevens/texture-assets@main/thumbnails/textures/Grunge/Grunge-25.jpg",
-          "description": "Rough, scratched surface"
+          "description": "Rough & scratched"
         }
       ]
     }
